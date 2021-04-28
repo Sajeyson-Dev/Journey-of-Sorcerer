@@ -1,0 +1,14 @@
+{
+	"x": -103,
+	"y": 197,
+	"width": 110,
+	"height": 20,
+	"action": "OPEN_URL",
+	"data": "https://github.com/Sajeyson/JourneyOfSorcerer/issues",
+	"u": 0,
+	"v": 20,
+	"texWidth": 128,
+    "texHeight": 40,
+	"anchor": "TOP_RIGHT",
+	"texture": "journeyofsorcerer:textures/gui/issues.png"
+}

@@ -1,0 +1,54 @@
+
+#Client Settings
+[client]
+	#Whether player has to sneak to see additional info in waila
+	waila_shift_for_info = false
+
+	#Position of mode and/or item display on the screen - used by some of the tools and weapons.
+	[client.hudPositions]
+		#Position of Void Tear HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		voidTear = "BOTTOM_LEFT"
+		#Position of Ender Staff HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		enderStaff = "BOTTOM_LEFT"
+		#Position of Pyromancer Staff HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		pyromancerStaff = "BOTTOM_LEFT"
+		#Position of Infernal Chalice HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		harvestRod = "BOTTOM_LEFT"
+		#Position of Rending Gale HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		rendingGale = "BOTTOM_LEFT"
+		#Position of Ice Magus Rod HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		iceMagusRod = "BOTTOM_LEFT"
+		#Position of Alkahestry Tome HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		alkahestryTome = "BOTTOM_LEFT"
+		#Position of Mob Charm HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		mobCharm = "RIGHT"
+		#Position of Sojouner Staff HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		sojournerStaff = "BOTTOM_LEFT"
+		#Position of Glacial Staff HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		glacialStaff = "BOTTOM_LEFT"
+		#Position of Midas Touchstone HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		midasTouchstone = "BOTTOM_LEFT"
+		#Position of Handgun HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		handgun = "BOTTOM_LEFT"
+		#Position of Ender Staff HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		infernalChalice = "BOTTOM_LEFT"
+		#Position of Destruction Catalyst HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		destructionCatalyst = "BOTTOM_LEFT"
+		#Position of Hero Medallion HUD
+		#Allowed Values: BOTTOM_LEFT, LEFT, TOP_LEFT, TOP, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
+		heroMedallion = "BOTTOM_LEFT"
+

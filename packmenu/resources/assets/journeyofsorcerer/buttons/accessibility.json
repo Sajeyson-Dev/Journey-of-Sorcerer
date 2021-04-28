@@ -1,0 +1,14 @@
+{
+	"x": -183,
+	"y": 176,
+	"width": 190,
+	"height": 20,
+	"action": "OPEN_GUI",
+	"data": "ACCESSIBILITY",
+	"u": 0,
+	"v": 20,
+	"texWidth": 200,
+    "texHeight": 40,
+	"anchor": "TOP_RIGHT",
+	"texture": "journeyofsorcerer:textures/gui/accessibility.png"
+}

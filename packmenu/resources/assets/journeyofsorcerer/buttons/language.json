@@ -1,0 +1,14 @@
+{
+	"x": -138,
+	"y": 154,
+	"width": 128,
+	"height": 20,
+	"action": "OPEN_GUI",
+	"data": "LANGUAGE",
+	"u": 0,
+	"v": 20,
+	"texWidth": 128,
+    "texHeight": 40,
+	"anchor": "TOP_RIGHT",
+	"texture": "journeyofsorcerer:textures/gui/language.png"
+}

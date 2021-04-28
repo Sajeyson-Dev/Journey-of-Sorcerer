@@ -1,0 +1,13 @@
+{
+	"x": -68,
+	"y": 220,
+	"width": 110,
+	"height": 20,
+	"action": "QUIT",
+	"u": 0,
+	"v": 20,
+	"texWidth": 128,
+    "texHeight": 40,
+	"anchor": "TOP_RIGHT",
+	"texture": "journeyofsorcerer:textures/gui/quit.png"
+}
