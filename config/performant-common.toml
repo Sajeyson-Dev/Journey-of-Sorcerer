@@ -66,7 +66,7 @@ displayTooLargePackets = true
 	#Adapt entity speed to tps, makes entities struggle less with lag. default = true
 	adaptiveSpeed = true
 	#Enable faster pathfinding, default = true
-	fastPathFinding = true
+	fastPathFinding = false
 
 ["Entity AI Settings"]
 	#Sets the tick interval in which non-running AI tasks are rechecked. Vanilla default is 1(starting with 1.13+), this mods suggested default is 4(as it was in 1.12)
@@ -98,6 +98,9 @@ displayTooLargePackets = true
 	betterFps = true
 	#Enable fast chunk block ticks, reduces lag on random block ticks in the world but keeps the same growth e.g. on crops. default = true
 	fastChunkBlocks = true
+	#Set how many scheduled blocks are updated each tick, scheduled block updates are for example fluid flowing. default = 1000, vanilla default = 65536
+	#Range: 1 ~ 65536
+	blockTicks = 3000
 
 ["Utility settings, debugging and other"]
 	#Set the max login timeout during connection in ticks. 20 ticks = 1 sec, default = 120 seconds

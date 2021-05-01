@@ -1,0 +1,2 @@
+//Your Mom
+villagerTrades.addTrade(<profession:minecraft:farmer>, 1, 64, <item:minecraft:diamond_hoe>.withTag({Unbreakable: 1 as byte, RepairCost: 0 as int, display: {Name: "{\"text\":\"Your Mom\"}" as string}}), 1, 64, 0);
