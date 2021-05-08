@@ -21,3 +21,8 @@
 
 - Updated Mods.
 - Fixed default keybind for Psi.
+
+## Modpack version: 1.0-release.
+
+- Updated Mods.
+- Added SuperMartijn642's Core Lib (by SuperMartijn642)
