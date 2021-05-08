@@ -1,2 +1,2 @@
-# Journey of Sorcerer
+# JourneyOfSorcerer
 Journey of Sorcerer modpack issues tracker.
