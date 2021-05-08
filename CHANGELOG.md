@@ -22,7 +22,7 @@
 - More Wires (by mrp_v2)
 - DeLogger (by UnRealDinnerbone)
 - FastSuite (by Shadows_of_Fire)
-- Changes:
+#### Changes:
 - Updated Mods.
 - Added full Akashic Tome recipe.
 - Fixed default settings, again...
