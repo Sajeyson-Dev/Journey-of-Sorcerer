@@ -1,3 +1,7 @@
+## Modpack version: 1.2-release.
+
+- Removed FastSuite (by Shadows_of_Fire) due to Infusion Table recipes not working.
+
 ## Modpack version: 1.1-release.
 
 - Removed unused mainmenu panorama files.
