@@ -1,3 +1,21 @@
+## Modpack version: 1.2-release.
+
+- Removed FastSuite (by Shadows_of_Fire) due to Infusion Table recipes not working.
+
+## Modpack version: 1.1-release.
+
+- Removed unused mainmenu panorama files.
+
+## Modpack version: 1.0-release.
+
+- Updated Mods.
+- Added SuperMartijn642's Core Lib (by SuperMartijn642)
+
+## Modpack version: 0.9-release.
+
+- Updated Mods.
+- Fixed default keybind for Psi.
+
 ## Modpack version: 0.8-release.
 
 #### Added:
@@ -8,7 +26,7 @@
 - More Wires (by mrp_v2)
 - DeLogger (by UnRealDinnerbone)
 - FastSuite (by Shadows_of_Fire)
-- Changes:
+#### Changes:
 - Updated Mods.
 - Added full Akashic Tome recipe.
 - Fixed default settings, again...
@@ -17,12 +35,3 @@
 - Managed mainmenu panorama files.
 - Updated Forge to latest version.
 
-## Modpack version: 0.9-release.
-
-- Updated Mods.
-- Fixed default keybind for Psi.
-
-## Modpack version: 1.0-release.
-
-- Updated Mods.
-- Added SuperMartijn642's Core Lib (by SuperMartijn642)
