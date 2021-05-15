@@ -1,3 +1,9 @@
+## Modpack version: 1.3-release.
+
+- Updated Mods.
+- Updated Forge to latest version (36.1.18).
+- Added modpack version info to window title.
+
 ## Modpack version: 1.2-release.
 
 - Removed FastSuite (by Shadows_of_Fire) due to Infusion Table recipes not working.
