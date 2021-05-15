@@ -14,4 +14,8 @@
 	disableInventoryButton = false
 	#Blacklisted Sounds - add the name of the sounds to blacklist, separated with comma
 	forbiddenSounds = ["ui.", "music.", "ambient."]
+	#Whether or not use the dark theme
+	useDarkTheme = false
+	#Set to true if this mod wont be present in the server; it will load and save the Anchors in ESM -> ServerWorld
+	isClientSide = false
 
