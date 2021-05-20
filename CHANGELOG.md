@@ -1,7 +1,7 @@
 ## **Modpack version: 1.4-release.**
 >**Added:**
-- Drawer Tooltip
-- Dynamic View
+- Drawers Tooltip (by Snownee_)
+- Dynamic View (by someaddon)
 >**Changed:**
 - Disabled **very** cheaty trinkets.
 - Decreaced rarity of unlocking a trinket from killing Bosses from 10 to 5.
