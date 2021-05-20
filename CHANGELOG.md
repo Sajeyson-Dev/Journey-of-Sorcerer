@@ -1,30 +1,45 @@
-## Modpack version: 1.3-release.
+## **Modpack version: 1.4-release.**
+>**Added:**
+- Drawer Tooltip
+- Dynamic View
+>**Changed:**
+- Disabled **very** cheaty trinkets.
+- Decreaced rarity of unlocking a trinket from killing Bosses from 10 to 5.
+- Disabled Destruction Gadget.
+- Updated Mods and Forge to latest version (36.1.23).
+- Improved Astral Sorcery marble recipes.
+- Decreased maximum backup folder size from 50 GB to 32 GB.
+>**Fixed:**
+- Books names not displayed in Akashic Tome.
 
+## **Modpack version: 1.3-release.**
+>**Changed:**
 - Updated Mods.
 - Updated Forge to latest version (36.1.18).
 - Added modpack version info to window title.
 
-## Modpack version: 1.2-release.
-
+## **Modpack version: 1.2-release.**
+>**Fixed:**
 - Removed FastSuite (by Shadows_of_Fire) due to Infusion Table recipes not working.
 
-## Modpack version: 1.1-release.
-
+## **Modpack version: 1.1-release.**
+>**Fixed:**
 - Removed unused mainmenu panorama files.
 
-## Modpack version: 1.0-release.
-
-- Updated Mods.
+## **Modpack version: 1.0-release.**
+>**Added:**
 - Added SuperMartijn642's Core Lib (by SuperMartijn642)
-
-## Modpack version: 0.9-release.
-
+>**Changed:**
 - Updated Mods.
-- Fixed default keybind for Psi.
 
-## Modpack version: 0.8-release.
+## **Modpack version: 0.9-release.**
+>**Changed:**
+- Updated Mods.
+>**Fixed:**
+- Default keybind for Psi.
 
-#### Added:
+## **Modpack version: 0.8-release.**
+>**Added:**
 - Tinkers Construct (by mDiyo)
 - ConnectedTexturesMod (by tterrag1098)
 - Water Strainer (by Ruuubi)
@@ -32,12 +47,12 @@
 - More Wires (by mrp_v2)
 - DeLogger (by UnRealDinnerbone)
 - FastSuite (by Shadows_of_Fire)
-#### Changes:
+>**Changed:**
 - Updated Mods.
 - Added full Akashic Tome recipe.
-- Fixed default settings, again...
 - Improved tooltips.
 - Added Easter Eggs.
 - Managed mainmenu panorama files.
 - Updated Forge to latest version.
-
+>**Fixed:**
+- Fixed default settings, again...
