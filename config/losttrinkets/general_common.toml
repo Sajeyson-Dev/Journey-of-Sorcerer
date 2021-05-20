@@ -5,7 +5,7 @@ unlockEnabled = true
 unlockCooldown = 2400
 #List of banned trinkets eg: ["losttrinkets:piggy", "losttrinkets:magical_feathers"]
 #The trinkets listed in here will also be removed from players that already unlocked them.
-blackList = []
+blackList = ["losttrinkets:magical_feathers", "losttrinkets:minds_eye", "losttrinkets:golden_horseshoe", "losttrinkets:broken_heart_1", "losttrinkets:broken_heart_2", "losttrinkets:broken_heart_3", "losttrinkets:broken_heart_4", "losttrinkets:broken_heart_5", "losttrinkets:karma", "losttrinkets:dragon_breath", "losttrinkets:fire_mind", "losttrinkets:mad_piggy", "losttrinkets:warm_void", "losttrinkets:tha_bat", "losttrinkets:rock_candy", "losttrinkets:empty_amulet", "losttrinkets:mossy_ring", "losttrinkets:dark_dagger", "losttrinkets:tha_spirit", "losttrinkets:oxalis", "losttrinkets:coffee_bean", "losttrinkets:tea_leaf", "losttrinkets:drop_spindle", "losttrinkets:magical_herbs", "losttrinkets:golden_tooth", "losttrinkets:ruby_heart", "losttrinkets:ash_gloves", "losttrinkets:glory_shards", "losttrinkets:silver_nail", "losttrinkets:mossy_belt", "losttrinkets:mad_aura", "losttrinkets:tha_ghost", "losttrinkets:tha_wizard"]
 #List of trinkets that can't be unlocked randomly eg: ["losttrinkets:piggy", "losttrinkets:magical_feathers"]
 #The trinkets listed in here will not be removed from players that already unlocked them.
 nonRandom = []
@@ -36,7 +36,7 @@ nonRandom = []
 	bossKillingUnlockEnabled = true
 	#Rarity of unlocking a trinket from killing Bosses. (Greater number = more rare)
 	#Range: 2 ~ 100000
-	bossKilling = 10
+	bossKilling = 5
 
 [Farming_Unlocks]
 	#Set to false to disable unlocking trinkets from farming.
