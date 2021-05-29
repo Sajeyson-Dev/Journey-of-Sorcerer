@@ -33,6 +33,9 @@
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
 	carbuncleWeight = 5
+	#Archwood forest spawn weight
+	#Range: > 0
+	archwoodForest = 3
 
 #Mana
 [mana]
