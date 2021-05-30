@@ -7,7 +7,7 @@
 - Disabled biome fog.
 - Disabled Marsh biome worldgen.
 >**Fixed:**
-- https://github.com/Sajeyson/JourneyOfSorcerer/commit/fbcffde62135f8e740164f47f64694dc91f4a460
+- Fixed typo in Travel Anchor's config.
 
 ## **Modpack version: 1.6-release.**
 >**Added:**
