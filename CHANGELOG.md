@@ -1,3 +1,14 @@
+## **Modpack version: 1.7-release.**
+>**Added:**
+- Biomes O' Plenty (by Forstride)
+>**Changed:**
+- Updated Mods.
+- Improved default options.
+- Disabled biome fog.
+- Disabled Marsh biome worldgen.
+>**Fixed:**
+- https://github.com/Sajeyson/JourneyOfSorcerer/commit/fbcffde62135f8e740164f47f64694dc91f4a460
+
 ## **Modpack version: 1.6-release.**
 >**Added:**
 - Travel Anchors (by CastCrafter)
