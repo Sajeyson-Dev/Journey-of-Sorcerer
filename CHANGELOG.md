@@ -1,3 +1,7 @@
+## **Modpack version: 1.5-release.**
+>**Changed:**
+- Updated Mods and Forge to latest version (36.1.24).
+
 ## **Modpack version: 1.4-release.**
 >**Added:**
 - Drawers Tooltip (by Snownee_)
