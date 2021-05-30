@@ -1,6 +1,6 @@
 ## **Modpack version: 1.6-release.**
 >**Added:**
-Travel Anchors (by CastCrafter)
+- Travel Anchors (by CastCrafter)
 >**Changed:**
 - Updated Mods.
 
