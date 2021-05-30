@@ -60,7 +60,7 @@
 	#Higher the player elevation the more haze that is experienced
 	"Elevation Haze" = false
 	#Enable biome specific fog density and color
-	"Biome Fog" = true
+	"Biome Fog" = false
 
 #Options for defining sound behavior
 ["Sound Options"]
