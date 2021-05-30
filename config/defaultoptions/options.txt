@@ -1,4 +1,7 @@
 version:2586
+renderDistance:8
+maxFps:260
+backgroundForChatOnly:false
 autoJump:false
 guiScale:3
 gamma:1
