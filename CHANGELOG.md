@@ -1,3 +1,7 @@
+## **Modpack version: 1.8-release.**
+>**Changed:**
+- Updated Mods.
+
 ## **Modpack version: 1.7-release.**
 >**Added:**
 - Biomes O' Plenty (by Forstride)
