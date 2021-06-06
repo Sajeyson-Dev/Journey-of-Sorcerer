@@ -2,7 +2,7 @@
 #Configuration for Inventory Essentials
 [client]
 	#Should holding shift and moving your mouse over items quick-transfer them without requiring each to be clicked?
-	enableShiftDrag = true
+	enableShiftDrag = false
 	#Should space-clicking an item move all items from that inventory at once?
 	enableBulkTransferAll = true
 	#Should ctrl-clicking only move one item at a time instead of the full stack?
