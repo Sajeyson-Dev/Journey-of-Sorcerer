@@ -68,4 +68,7 @@
 		flute = true
 		pulley_block = true
 		gold_door = true
+		goblet = true
+		raked_gravel = true
+		i_want_flags = false
 
