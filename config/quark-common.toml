@@ -564,7 +564,7 @@
 		"Tries Per Chunk" = 60
 
 		[world.speleothems.dimensions]
-			Dimensions = []
+			Dimensions = ["twilightforest:twilightforest"]
 			"Is Blacklist" = true
 
 	[world.sandstone_underground_biome]
