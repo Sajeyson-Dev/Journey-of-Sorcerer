@@ -1,8 +1,16 @@
-## **Modpack version: 1.9.1-release.**
+## **Journey of Sorcerer: 1.9.2-release.**
+>**Added:**
+- Easy Magic (by Fuzs_)
+- ServerConfig Updater (by Darkere)
+>**Changed:**
+- Updated Mods.
+- Added Twilight Forest guidebook to Akashic Tome.
+
+## **Journey of Sorcerer: 1.9.1-release.**
 >**Changed:**
 - Updated Mods.
 
-## **Modpack version: 1.9-release.**
+## **Journey of Sorcerer: 1.9-release.**
 >**Added:**
 - iChunUtil (by ohaiiChun)
 - Hats (by ohaiiChun)
@@ -16,11 +24,11 @@
 >**Fixed:**
 - Fixed Inventory Essentials conflict with Mouse Tweaks's 'Shift Drag' feature.
 
-## **Modpack version: 1.8-release.**
+## **Journey of Sorcerer: 1.8-release.**
 >**Changed:**
 - Updated Mods.
 
-## **Modpack version: 1.7-release.**
+## **Journey of Sorcerer: 1.7-release.**
 >**Added:**
 - Biomes O' Plenty (by Forstride)
 >**Changed:**
@@ -31,18 +39,18 @@
 >**Fixed:**
 - Fixed typo in Travel Anchor's config.
 
-## **Modpack version: 1.6-release.**
+## **Journey of Sorcerer: 1.6-release.**
 >**Added:**
 - Travel Anchors (by CastCrafter)
 >**Changed:**
 - Updated Mods.
 
-## **Modpack version: 1.5-release.**
+## **Journey of Sorcerer: 1.5-release.**
 >**Changed:**
 - Updated Mods.
 - Updated Forge to 36.1.24.
 
-## **Modpack version: 1.4-release.**
+## **Journey of Sorcerer: 1.4-release.**
 >**Added:**
 - Drawers Tooltip (by Snownee_)
 - Dynamic View (by someaddon)
@@ -57,33 +65,33 @@
 >**Fixed:**
 - Books names not displayed in Akashic Tome.
 
-## **Modpack version: 1.3-release.**
+## **Journey of Sorcerer: 1.3-release.**
 >**Changed:**
 - Updated Mods.
 - Updated Forge to 36.1.18.
 - Added modpack version info to window title.
 
-## **Modpack version: 1.2-release.**
+## **Journey of Sorcerer: 1.2-release.**
 >**Fixed:**
 - Removed FastSuite (by Shadows_of_Fire) due to Infusion Table recipes not working.
 
-## **Modpack version: 1.1-release.**
+## **Journey of Sorcerer: 1.1-release.**
 >**Fixed:**
 - Removed unused mainmenu panorama files.
 
-## **Modpack version: 1.0-release.**
+## **Journey of Sorcerer: 1.0-release.**
 >**Added:**
 - Added SuperMartijn642's Core Lib (by SuperMartijn642)
 >**Changed:**
 - Updated Mods.
 
-## **Modpack version: 0.9-release.**
+## **Journey of Sorcerer: 0.9-release.**
 >**Changed:**
 - Updated Mods.
 >**Fixed:**
 - Default keybind for Psi.
 
-## **Modpack version: 0.8-release.**
+## **Journey of Sorcerer: 0.8-release.**
 >**Added:**
 - Tinkers Construct (by mDiyo)
 - ConnectedTexturesMod (by tterrag1098)
