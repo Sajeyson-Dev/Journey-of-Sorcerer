@@ -11,7 +11,7 @@
 - Updated Mods.
 - Updated Forge to 36.1.25.
 - Added cosmetic slots for each curio.
-- Added Ore doubling/tripling/ect. from other mods on Infusion Altar from Astral Sorcery.
+- Added Ore doubling/tripling/ect. for other mods on Infusion Altar from Astral Sorcery.
 - Added Tiny Coal and Tiny Charcoal using ContentTweaker.
 >**Fixed:**
 - Fixed Inventory Essentials conflict with Mouse Tweaks's 'Shift Drag' feature.
