@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.item.TealArrowfishArrowEntity",
+  "forClass": "teamdraco.fins.common.entities.item.TealArrowfishArrowEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

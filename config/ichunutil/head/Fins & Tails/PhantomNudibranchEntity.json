@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.PhantomNudibranchEntity",
+  "forClass": "teamdraco.fins.common.entities.PhantomNudibranchEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

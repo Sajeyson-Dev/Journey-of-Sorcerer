@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.OrnateBugfishEntity",
+  "forClass": "teamdraco.fins.common.entities.OrnateBugfishEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

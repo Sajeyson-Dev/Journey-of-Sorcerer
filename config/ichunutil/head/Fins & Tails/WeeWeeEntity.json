@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.WeeWeeEntity",
+  "forClass": "teamdraco.fins.common.entities.WeeWeeEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

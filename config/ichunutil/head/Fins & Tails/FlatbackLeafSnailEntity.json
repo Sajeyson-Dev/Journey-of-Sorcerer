@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.FlatbackLeafSnailEntity",
+  "forClass": "teamdraco.fins.common.entities.FlatbackLeafSnailEntity",
   "modelFieldName": "body.eyes",
   "eyeOffset": [
     0.0,

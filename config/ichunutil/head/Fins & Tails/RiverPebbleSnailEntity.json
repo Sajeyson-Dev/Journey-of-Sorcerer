@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.RiverPebbleSnailEntity",
+  "forClass": "teamdraco.fins.common.entities.RiverPebbleSnailEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

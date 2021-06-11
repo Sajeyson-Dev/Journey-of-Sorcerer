@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.GoldenRiverRayEntity",
+  "forClass": "teamdraco.fins.common.entities.GoldenRiverRayEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

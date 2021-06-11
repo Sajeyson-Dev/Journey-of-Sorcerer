@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.NightLightSquidEntity",
+  "forClass": "teamdraco.fins.common.entities.NightLightSquidEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

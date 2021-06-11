@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.SpindlyGemCrabEntity",
+  "forClass": "teamdraco.fins.common.entities.SpindlyGemCrabEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

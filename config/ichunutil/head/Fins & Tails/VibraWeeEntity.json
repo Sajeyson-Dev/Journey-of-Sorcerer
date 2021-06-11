@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.VibraWeeEntity",
+  "forClass": "teamdraco.fins.common.entities.VibraWeeEntity",
   "modelFieldName": "body",
   "eyeOffset": [
     0.0,

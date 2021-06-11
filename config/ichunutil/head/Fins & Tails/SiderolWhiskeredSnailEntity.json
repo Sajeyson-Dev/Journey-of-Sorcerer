@@ -1,6 +1,6 @@
 {
   "author": "WenXin2",
-  "forClass": "mod.coda.fins.entities.SiderolWhiskeredSnailEntity",
+  "forClass": "teamdraco.fins.common.entities.SiderolWhiskeredSnailEntity",
   "modelFieldName": "body.neck.stalks",
   "eyeOffset": [
     0.0,
