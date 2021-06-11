@@ -1,6 +1,6 @@
 ## **Journey of Sorcerer: 1.9.3-release.**
 >**Added:**
--FTB Teams (Forge) (by FTB)
+- FTB Teams (Forge) (by FTB)
 >**Changed:**
 - Updated Mods.
 - Updated Forge to latest version (36.1.31).
