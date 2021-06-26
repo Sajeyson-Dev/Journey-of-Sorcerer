@@ -1,0 +1,16 @@
+/.mixin.out/
+/.coremods/
+/craftpresence/
+/journeymap/
+/logs/
+/mods/
+/patchouli_books/
+/resourcepacks/
+/saves/
+/screenshots/
+/server-resource-packs/
+/texturepacks/
+BotaniaVars.dat
+icon.png
+knownkeys.txt
+patchouli_data.json
