@@ -2,6 +2,7 @@
 /.coremods/
 /craftpresence/
 /journeymap/
+/local/
 /logs/
 mods
 /patchouli_books/
@@ -15,3 +16,5 @@ icon.png
 knownkeys.txt
 options.txt
 patchouli_data.json
+usercache.json
+usernamecache.json
