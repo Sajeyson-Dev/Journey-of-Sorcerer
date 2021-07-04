@@ -9,7 +9,7 @@
 	river_size = "MEDIUM"
 	#Type of temperature zones to use during biome placement.
 	#Allowed Values: LATITUDE, SMALL_ZONES, MEDIUM_ZONES, LARGE_ZONES, RANDOM
-	temperature_variation_scheme = "MEDIUM_ZONES"
+	temperature_variation_scheme = "RANDOM"
 	#Type of rainfall zones to use during biome placement.
 	#Allowed Values: SMALL_ZONES, MEDIUM_ZONES, LARGE_ZONES, RANDOM
 	rainfall_variation_scheme = "MEDIUM_ZONES"
