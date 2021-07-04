@@ -1,3 +1,9 @@
+## **Journey of Sorcerer: 1.9.5-release.**
+>**Changed:**
+- Updated Mods.
+- Desert biome is now more common.
+- Changed biome placement algorithm.
+
 ## **Journey of Sorcerer: 1.9.4-release.**
 >**Changed:**
 - Updated Mods.
