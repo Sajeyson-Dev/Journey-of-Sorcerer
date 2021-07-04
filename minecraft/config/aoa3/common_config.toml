@@ -14,8 +14,3 @@
 	#If you don't mind your logs having a bit more info, or you are trying to figure out a bug or crash, this can be very helpful to have
 	doVerboseDebugging = false
 
-#Just for fun :)
-["Fun Options"]
-	#Set this to true to enable AoA hardcore mode.
-	hardcoreMode = false
-
