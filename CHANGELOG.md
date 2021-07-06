@@ -1,3 +1,9 @@
+## **Journey of Sorcerer: 1.9.6-release.**
+>**Changed:**
+- Updated Mods.
+>**Fixed:**
+- Desert biome is still not to common.
+
 ## **Journey of Sorcerer: 1.9.5-release.**
 >**Changed:**
 - Updated Mods.
@@ -40,7 +46,7 @@
 - Added Ore doubling/tripling/ect. for other mods on Infusion Altar from Astral Sorcery.
 - Added Tiny Coal and Tiny Charcoal using ContentTweaker.
 >**Fixed:**
-- Fixed Inventory Essentials conflict with Mouse Tweaks's 'Shift Drag' feature.
+- Inventory Essentials conflict with Mouse Tweaks's 'Shift Drag' feature.
 
 ## **Journey of Sorcerer: 1.8-release.**
 >**Changed:**
@@ -55,7 +61,7 @@
 - Disabled biome fog.
 - Disabled Marsh biome worldgen.
 >**Fixed:**
-- Fixed typo in Travel Anchor's config.
+- Typo in Travel Anchor's config.
 
 ## **Journey of Sorcerer: 1.6-release.**
 >**Added:**
@@ -126,4 +132,4 @@
 - Managed mainmenu panorama files.
 - Updated Forge to latest version.
 >**Fixed:**
-- Fixed default settings, again...
+- Default settings, again...
