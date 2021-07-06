@@ -144,10 +144,6 @@
       "weight": 100,
       "rarity": 1.0
     },
-    "biomesoplenty:dense_marsh": {
-      "weight": 0,
-      "rarity": 1.0
-    },
     "biomesoplenty:dense_woodland": {
       "weight": 100,
       "rarity": 0.9
