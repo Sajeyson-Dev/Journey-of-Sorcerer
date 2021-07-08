@@ -1,3 +1,7 @@
+## **Journey of Sorcerer: 1.9.7-release.**
+>**Changed:**
+- Disabled 'FoodHealthHudOverlay' due to bug.
+
 ## **Journey of Sorcerer: 1.9.6-release.**
 >**Changed:**
 - Updated Mods.
