@@ -5,6 +5,7 @@ backgroundForChatOnly:false
 autoJump:false
 guiScale:3
 gamma:1
+darkMojangStudiosBackground:true
 soundCategory_master:0.10915493
 soundCategory_music:0.5070422
 soundCategory_record:1.0

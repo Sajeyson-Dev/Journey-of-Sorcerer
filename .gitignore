@@ -1,9 +1,11 @@
 .packignore
 modlist.html
 instance.cfg
+mmc-pack.json
 /natives/
 
 /minecraft/.mixin.out/
+/minecraft/backups/
 /minecraft/.coremods/
 /minecraft/craftpresence/
 /minecraft/journeymap/
