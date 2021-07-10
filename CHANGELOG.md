@@ -1,3 +1,12 @@
+## **Journey of Sorcerer: 1.9.8-release.**
+>**Added:**
+- MojangDark (by SizableShrimp)
+- In Control! (by McJty)
+>**Removed:**
+- Darker Loading Screen (by tfarecnim)
+>**Fixed:**
+- Glistening Pixons doesn't spawns in overworld.
+
 ## **Journey of Sorcerer: 1.9.7-release.**
 >**Changed:**
 - Disabled 'FoodHealthHudOverlay' due to bug.
