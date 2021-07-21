@@ -9,7 +9,7 @@
 - Traverse Reforged (by Noobanidus)
 >**Removed:**
 - Biomes O' Plenty (by Forstride)
->**Changed:**
+>**Changes:**
 - Updated mods.
 - Updated Forge to 36.1.65.
 - Small surface water and lava lakes no longer generates.
@@ -28,30 +28,30 @@
 - Glistening Pixons doesn't spawns in overworld.
 
 ## **Journey of Sorcerer: 1.9.7-release.**
->**Changed:**
+>**Changes:**
 - Disabled 'FoodHealthHudOverlay' due to bug.
 
 ## **Journey of Sorcerer: 1.9.6-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 >**Fixed:**
 - Desert biome is still not to common.
 
 ## **Journey of Sorcerer: 1.9.5-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Desert biome is now more common.
 - Changed biome placement algorithm.
 
 ## **Journey of Sorcerer: 1.9.4-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Updated Forge to 36.1.32.
 
 ## **Journey of Sorcerer: 1.9.3-release.**
 >**Added:**
 - FTB Teams (Forge) (by FTB)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Updated Forge to 36.1.31.
 
@@ -59,12 +59,12 @@
 >**Added:**
 - Easy Magic (by Fuzs_)
 - ServerConfig Updater (by Darkere)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Added Twilight Forest guidebook to Akashic Tome.
 
 ## **Journey of Sorcerer: 1.9.1-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 
 ## **Journey of Sorcerer: 1.9-release.**
@@ -72,7 +72,7 @@
 - iChunUtil (by ohaiiChun)
 - Hats (by ohaiiChun)
 - The Twilight Forest (by Benimatic)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Updated Forge to 36.1.25.
 - Added cosmetic slots for each curio.
@@ -82,13 +82,13 @@
 - Inventory Essentials conflict with Mouse Tweaks's 'Shift Drag' feature.
 
 ## **Journey of Sorcerer: 1.8-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 
 ## **Journey of Sorcerer: 1.7-release.**
 >**Added:**
 - Biomes O' Plenty (by Forstride)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Improved default options.
 - Disabled biome fog.
@@ -99,11 +99,11 @@
 ## **Journey of Sorcerer: 1.6-release.**
 >**Added:**
 - Travel Anchors (by CastCrafter)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 
 ## **Journey of Sorcerer: 1.5-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Updated Forge to 36.1.24.
 
@@ -111,7 +111,7 @@
 >**Added:**
 - Drawers Tooltip (by Snownee_)
 - Dynamic View (by someaddon)
->**Changed:**
+>**Changes:**
 - Disabled **very** cheaty trinkets.
 - Decreaced rarity of unlocking a trinket from killing Bosses from 10 to 5.
 - Disabled Destruction Gadget.
@@ -123,7 +123,7 @@
 - Books names not displayed in Akashic Tome.
 
 ## **Journey of Sorcerer: 1.3-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Updated Forge to 36.1.18.
 - Added modpack version info to window title.
@@ -139,11 +139,11 @@
 ## **Journey of Sorcerer: 1.0-release.**
 >**Added:**
 - Added SuperMartijn642's Core Lib (by SuperMartijn642)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 
 ## **Journey of Sorcerer: 0.9-release.**
->**Changed:**
+>**Changes:**
 - Updated Mods.
 >**Fixed:**
 - Default keybind for Psi.
@@ -157,7 +157,7 @@
 - More Wires (by mrp_v2)
 - DeLogger (by UnRealDinnerbone)
 - FastSuite (by Shadows_of_Fire)
->**Changed:**
+>**Changes:**
 - Updated Mods.
 - Added full Akashic Tome recipe.
 - Improved tooltips.
