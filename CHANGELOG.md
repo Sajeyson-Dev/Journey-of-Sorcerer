@@ -1,22 +1,22 @@
 ## **Journey of Sorcerer: 1.9.9-release.** - MAKE WORLD BACKUP BEFORE USING THIS VERSION.
 >**Added:**
-Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)
-Upstream (by Corgi_Taco)
-Mini Effects (by Snownee_)
-Desolation (Forge) (by y4z0n)
-Gauges and Switches (by wilechaote)
-No Lakes in Forge (by Shwible_Di_Bibble)
-Traverse Reforged (by Noobanidus)
+- Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)
+- Upstream (by Corgi_Taco)
+- Mini Effects (by Snownee_)
+- Desolation (Forge) (by y4z0n)
+- Gauges and Switches (by wilechaote)
+- No Lakes in Forge (by Shwible_Di_Bibble)
+- Traverse Reforged (by Noobanidus)
 >**Removed:**
-Biomes O' Plenty (by Forstride)
+- Biomes O' Plenty (by Forstride)
 >**Changed:**
-Updated mods.
-Updated Forge to 36.1.65.
-Small surface water and lava lakes no longer generates.
-Changed rivers worldgen.
-Redused Glistening Pixons spawn rate.
-Disabled Astral Sorcery marble worldgen.
-Quark's marble now more common.
+- Updated mods.
+- Updated Forge to 36.1.65.
+- Small surface water and lava lakes no longer generates.
+- Changed rivers worldgen.
+- Redused Glistening Pixons spawn rate.
+- Disabled Astral Sorcery marble worldgen.
+- Quark's marble now more common.
 
 ## **Journey of Sorcerer: 1.9.8-release.**
 >**Added:**
