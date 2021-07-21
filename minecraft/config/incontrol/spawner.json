@@ -1,11 +1,11 @@
 [
   {
     "mob": "aoa3:glistening_pixon",
-    "attempts": 5,
+    "attempts": 4,
     "conditions": {
       "dimension": "minecraft:overworld",
       "seesky": true,
-      "maxthis": 20
+      "maxthis": 10
     }
   }
 ]

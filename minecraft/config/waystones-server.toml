@@ -23,7 +23,7 @@
 	[server.warpStone]
 		#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
 		#Range: > 0
-		warpStoneCooldown = 300
+		warpStoneCooldown = 60
 		#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
 		#Range: > 1
 		warpStoneUseTime = 32
