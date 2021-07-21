@@ -1,4 +1,4 @@
-## **Journey of Sorcerer: 1.9.9-release.** - MAKE WORLD BACKUP BEFORE USING THIS VERSION.
+## **Journey of Sorcerer: 1.9.9-release.** MAKE WORLD BACKUP BEFORE USING THIS VERSION.
 >**Added:**
 - Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)
 - Upstream (by Corgi_Taco)
