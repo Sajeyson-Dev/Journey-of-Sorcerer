@@ -36,3 +36,6 @@
 	identifier = "feet"
 	hasCosmetic = true
 
+[[curiosSettings]]
+	identifier = "an_focus"
+	hasCosmetic = true

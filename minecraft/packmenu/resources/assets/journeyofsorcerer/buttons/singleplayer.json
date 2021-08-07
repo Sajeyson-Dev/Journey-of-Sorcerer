@@ -1,14 +1,14 @@
 {
-	"x": 0,
+	"x": 20,
 	"y": 132,
-	"width": 190,
+	"width": 120,
 	"height": 20,
 	"action": "OPEN_GUI",
 	"data": "SINGLEPLAYER",
-	"texWidth": 200,
-    "texHeight": 40,
-	"u": 0,
-	"v": 20,
+	"texWidth": 120,
+    "texHeight": 20,
 	"anchor": "TOP_LEFT",
-	"texture": "journeyofsorcerer:textures/gui/singleplayer.png"
+	"langKey": "menu.singleplayer",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }

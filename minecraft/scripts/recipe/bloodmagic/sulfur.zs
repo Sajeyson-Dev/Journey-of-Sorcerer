@@ -1,2 +1,2 @@
-//Sulfur
+// Sulfur
 <recipetype:bloodmagic:arc>.addRecipe("sulfur", <item:eidolon:sulfur>, <fluid:minecraft:lava> * 5, <tag:items:forge:netherrack>, <fluid:minecraft:empty>, <tag:items:bloodmagic:arc/explosive>, false);

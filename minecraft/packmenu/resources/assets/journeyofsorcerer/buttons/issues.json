@@ -1,14 +1,14 @@
 {
-	"x": -103,
-	"y": 197,
-	"width": 110,
+	"x": -140,
+	"y": 176,
+	"width": 120,
 	"height": 20,
 	"action": "OPEN_URL",
 	"data": "https://github.com/Sajeyson/Journey-of-Sorcerer/issues",
-	"u": 0,
-	"v": 20,
-	"texWidth": 128,
-    "texHeight": 40,
+	"texWidth": 120,
+    "texHeight": 20,
 	"anchor": "TOP_RIGHT",
-	"texture": "journeyofsorcerer:textures/gui/issues.png"
+	"langKey": "Issues",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }

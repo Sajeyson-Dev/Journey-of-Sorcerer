@@ -1,15 +1,15 @@
 {
-	"x": -12,
+	"x": 20,
 	"y": 154,
-	"width": 180,
+	"width": 120,
 	"height": 20,
 	"langKey": "",
 	"action": "OPEN_GUI",
 	"data": "MULTIPLAYER",
-	"texWidth": 200,
-    "texHeight": 40,
-	"u": 0,
-	"v": 20,
+	"texWidth": 120,
+    "texHeight": 20,
 	"anchor": "TOP_LEFT",
-	"texture": "journeyofsorcerer:textures/gui/multiplayer.png"
+	"langKey": "menu.multiplayer",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }

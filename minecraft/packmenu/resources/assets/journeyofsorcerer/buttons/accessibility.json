@@ -1,14 +1,14 @@
 {
-	"x": -183,
-	"y": 176,
-	"width": 190,
+	"x": -140,
+	"y": 154,
+	"width": 120,
 	"height": 20,
 	"action": "OPEN_GUI",
 	"data": "ACCESSIBILITY",
-	"u": 0,
-	"v": 20,
-	"texWidth": 200,
-    "texHeight": 40,
+	"texWidth": 120,
+    "texHeight": 20,
 	"anchor": "TOP_RIGHT",
-	"texture": "journeyofsorcerer:textures/gui/accessibility.png"
+	"langKey": "options.accessibility.title",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }

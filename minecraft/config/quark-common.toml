@@ -724,12 +724,12 @@
 			"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Marble" = true
+		"Enable Marble" = false
 		"Enable Myalite" = true
 		"Enable Jasper" = true
 		"Enable Voidstone" = true
 		"Enable Slate" = true
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 
 		[world.new_stone_types.marble]
 
@@ -737,11 +737,11 @@
 				#Allowed values: [0,255]
 				"Max Height" = 255
 				#Allowed values: [0,)
-				"Cluster Count" = 20
+				"Cluster Count" = 10
 				#Allowed values: [0,255]
 				"Min Height" = 0
 				#Allowed values: [0,)
-				"Cluster Size" = 64
+				"Cluster Size" = 33
 
 			[world.new_stone_types.marble.dimensions]
 				Dimensions = ["minecraft:overworld"]
@@ -1114,7 +1114,7 @@
 			"Min Y Level" = 20
 			#Allowed values: [0,)
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			#Allowed values: [0,255]
 			"Max Y Level" = 80
 			#Allowed values: [0,)
@@ -1150,7 +1150,7 @@
 			"Min Y Level" = 20
 			#Allowed values: [0,)
 			"Horizontal Variation" = 9
-			Enabled = true
+			Enabled = false
 			#Allowed values: [0,255]
 			"Max Y Level" = 80
 			#Allowed values: [0,)

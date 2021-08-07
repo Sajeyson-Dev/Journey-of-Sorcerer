@@ -1,14 +1,14 @@
 {
-	"x": -2,
-	"y": 175,
-	"width": 116,
+	"x": 20,
+	"y": 176,
+	"width": 120,
 	"height": 20,
 	"action": "OPEN_GUI",
 	"data": "OPTIONS",
-	"u": 0,
-	"v": 20,
-	"texWidth": 128,
-    "texHeight": 40,
+	"texWidth": 120,
+    "texHeight": 20,
 	"anchor": "TOP_LEFT",
-	"texture": "journeyofsorcerer:textures/gui/options.png"
+	"langKey": "menu.options",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }

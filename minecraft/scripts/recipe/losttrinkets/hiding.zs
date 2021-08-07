@@ -1,4 +1,4 @@
-//Hiding disabled trinkets
+// Hiding disabled trinkets
 mods.jei.JEI.hideItem(<item:losttrinkets:rock_candy>);
 mods.jei.JEI.hideItem(<item:losttrinkets:empty_amulet>);
 mods.jei.JEI.hideItem(<item:losttrinkets:tha_ghost>);

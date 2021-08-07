@@ -2,9 +2,9 @@
 #General settings for the mod.
 [general]
 	#The color for the background of the tooltip.
-	background = "ee171717"
+	background = "ee0A1118"
 	#The color at the bottom of the tooltip gradient.
-	borderEnd = "ff007880"
+	borderEnd = "ff0D1F2F"
 	#The color at the top of the tooltip gradient.
-	borderStart = "ff00CAD7"
+	borderStart = "ff0D2F3F"
 

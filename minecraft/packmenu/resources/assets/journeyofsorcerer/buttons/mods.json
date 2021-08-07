@@ -1,14 +1,14 @@
 {
-	"x": -80,
-	"y": 132,
-	"width": 100,
+	"x": 20,
+	"y": 198,
+	"width": 120,
 	"height": 20,
 	"action": "OPEN_GUI",
 	"data": "MODS",
-	"u": 0,
-	"v": 20,
-	"texWidth": 128,
-    "texHeight": 40,
-	"anchor": "TOP_RIGHT",
-	"texture": "journeyofsorcerer:textures/gui/mods.png"
+	"texWidth": 120,
+    "texHeight": 20,
+	"anchor": "TOP_LEFT",
+	"langKey": "fml.menu.mods",
+	"hoverFontColor": 38655,
+	"texture": "journeyofsorcerer:textures/gui/default_button.png"
 }
