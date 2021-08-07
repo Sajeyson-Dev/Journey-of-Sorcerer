@@ -1,3 +1,32 @@
+## **Journey of Sorcerer: 2.0-release.**
+>**Added:**
+- Scorge (by illyohs)
+- CB Multipart (by covers1624)
+- Project Red - Core (by MrTJP)
+- Project Red - Integration (by MrTJP)
+- Project Red - Illumination (by MrTJP)
+- Project Red - Exploration (by MrTJP)
+- Catalogue (by MrCrayfish)
+- YUNG's API (Forge) (by YUNGNICKYOUNG)
+- YUNG's Better Caves (Forge) (by YUNGNICKYOUNG)
+- YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
+- YUNG's Better Dungeons (Forge) (by YUNGNICKYOUNG)
+- YUNG's Better Strongholds (Forge) (by YUNGNICKYOUNG)
+- Connectible Chains [FORGE] (by lilypuree)
+- Chisel (by tterrag1098)
+>**Removed:**
+- Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco) - Not compatible with Astral Sorcery.
+- More Wires (by mrp_v2)
+- mrp-library">mrp Library (by mrp_v2)
+>**Changes:**
+- Added cosmetic curio slot to Spell Charm slot.
+- Replaced Quark's marble and limestone worldgen with Chisel worldgen.
+- Changed mainmenu and tooltips to new style.
+- Script refactoring and improvements.
+- Incompleted Twilight Forest doors and trapdoor now unobtainable.
+- Updated mods.
+- Updated Forge to 36.2.2.
+
 ## **Journey of Sorcerer: 1.9.9-release.**
 >**Added:**
 - Enhanced Celestials - Blood Moons & Harvest Moons (by Corgi_Taco)
