@@ -19,7 +19,7 @@
 - More Wires (by mrp_v2)
 - mrp-library">mrp Library (by mrp_v2)
 >**Changes:**
-- Added cosmetic slot to Spell Charm curio slot.
+- Added cosmetic slot to spell charm curio slot.
 - Replaced Quark's marble and limestone worldgen with Chisel worldgen.
 - Changed mainmenu and tooltips to new style.
 - Script refactoring and improvements.
