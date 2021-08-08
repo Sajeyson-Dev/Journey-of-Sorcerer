@@ -154,6 +154,7 @@ key_mod.chiselsandbits.other.offgrid:key.keyboard.unknown:NONE
 key_mod.chiselsandbits.other.undo:key.keyboard.unknown:NONE
 key_mod.chiselsandbits.other.redo:key.keyboard.unknown:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:key.keyboard.unknown:NONE
+key_key.craftingGrid:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.v:NONE
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown:NONE
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:NONE
