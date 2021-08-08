@@ -4,6 +4,7 @@
 - Translocators 1.8.+ (by covers1624)
 >**Changes:**
 - Disabled ProjectRed backpacks.
+>**Fixed:**
 - Fixed scripts on github sources.
 
 ## **Journey of Sorcerer: 2.0-release.**
