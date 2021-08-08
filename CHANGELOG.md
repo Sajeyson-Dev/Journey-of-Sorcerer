@@ -1,3 +1,11 @@
+## **Journey of Sorcerer: 2.1-release.**
+>**Added:**
+- Project Red - Transmission (by MrTJP)
+- Translocators 1.8.+ (by covers1624)
+>**Changes:**
+- Disabled ProjectRed backpacks.
+- Fixed scripts on github sources.
+
 ## **Journey of Sorcerer: 2.0-release.**
 >**Added:**
 - Scorge (by illyohs)
