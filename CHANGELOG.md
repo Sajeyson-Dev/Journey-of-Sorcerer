@@ -66,7 +66,7 @@
 - Glistening Pixons doesn't spawns in overworld.
 
 ## **Journey of Sorcerer: 1.9.7-release.**
-**Happy Birthday beta 1.7.3 🎂**
+**Happy Birthday Minecraft Beta 1.7.3 🎂**
 >**Changes:**
 - Disabled 'FoodHealthHudOverlay' due to bug.
 
