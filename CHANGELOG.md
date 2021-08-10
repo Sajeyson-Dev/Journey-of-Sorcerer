@@ -1,6 +1,3 @@
-
-**Happy Birthday Minecraft Snapshot 12w32a 🎂**
-
 ## **Journey of Sorcerer: 2.1-release.**
 >**Added:**
 - Project Red - Transmission (by MrTJP)
