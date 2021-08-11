@@ -1,3 +1,8 @@
+## **Journey of Sorcerer: 2.2-release.**
+>**Changes:**
+- Updated mods.
+- Unified chisel stuff.
+
 ## **Journey of Sorcerer: 2.1-release.**
 >**Added:**
 - Project Red - Transmission (by MrTJP)
