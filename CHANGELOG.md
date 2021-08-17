@@ -1,3 +1,7 @@
+## **Journey of Sorcerer: 2.2.1-release.**
+>**Changes:**
+- Updated mods.
+
 ## **Journey of Sorcerer: 2.2-release.**
 >**Changes:**
 - Updated mods.
