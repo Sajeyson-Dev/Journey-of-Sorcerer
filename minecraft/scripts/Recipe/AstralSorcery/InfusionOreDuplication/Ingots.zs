@@ -7,6 +7,12 @@ var defaultChance = 0.1; // Chance to consume Starlight
 // Copper
 <recipetype:astralsorcery:infusion>.addRecipe("copper", <item:tconstruct:copper_ingot> * 3, <item:tconstruct:copper_ore>, liquidStarlight, defaultTime, defaultChance, false, true, false);
 
+// Tin
+<recipetype:astralsorcery:infusion>.addRecipe("tin", <item:projectred-core:tin_ingot> * 3, <item:projectred-exploration:tin_ore>, liquidStarlight, defaultTime, defaultChance, false, true, false);
+
+// Silver
+<recipetype:astralsorcery:infusion>.addRecipe("silver", <item:projectred-core:silver_ingot> * 3, <item:projectred-exploration:silver_ore>, liquidStarlight, defaultTime, defaultChance, false, true, false);
+
 // Lead
 <recipetype:astralsorcery:infusion>.addRecipe("lead", <item:eidolon:lead_ingot> * 3, <item:eidolon:lead_ore>, liquidStarlight, defaultTime, defaultChance, false, true, false);
 
