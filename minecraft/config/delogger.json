@@ -14,5 +14,8 @@
   "clientRecipeBook": true,
   "modelBakery": true,
   "atlasTexture": true,
-  "blockModel": true
+  "blockModel": true,
+  "loggers": [
+    "ExampleLogger"
+  ]
 }
