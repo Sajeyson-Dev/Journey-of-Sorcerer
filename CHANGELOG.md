@@ -1,3 +1,8 @@
+## **Journey of Sorcerer: 2.2.2-release.**
+>**Changes:**
+- Updated mods.
+- Added tin and silver starlight infusion recipe.
+
 ## **Journey of Sorcerer: 2.2.1-release.**
 >**Changes:**
 - Updated mods.
