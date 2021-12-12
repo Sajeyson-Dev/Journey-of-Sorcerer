@@ -16,6 +16,11 @@ var defaultChance = 0.1; // Chance to consume Starlight
     <item:projectred-core:tin_ingot> * 3, <item:projectred-exploration:tin_ore>,
     liquidStarlight, defaultTime, defaultChance, false, true, false);
 
+// Basalt Iron
+<recipetype:astralsorcery:infusion>.addRecipe("iron_from_basalt",
+    <item:minecraft:iron_ingot> * 3, <item:infernalexp:basalt_iron_ore>,
+    liquidStarlight, defaultTime, defaultChance, false, true, false);
+
 // Silver
 <recipetype:astralsorcery:infusion>.addRecipe("silver",
     <item:projectred-core:silver_ingot> * 3, <item:projectred-exploration:silver_ore>,
