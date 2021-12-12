@@ -1,73 +1,51 @@
-var ingot = <tag:items:forge:ingots>;
-var gem = <tag:items:forge:gems>;
+#priority 72
 
-var copperOreTag = <tag:items:forge:ores/copper>;
-var copperOreBlockTag = <tag:blocks:forge:ores/copper>;
-var copperIngotTag = <tag:items:forge:ingots/copper>;
-var copperBlockTag = <tag:items:forge:storage_blocks/copper>;
-var copperBlockBlockTag = <tag:blocks:forge:storage_blocks/copper>;
+import mods.jei.JEI;
 
-var copperOre = <item:projectred-exploration:copper_ore>;
-var copperIngot = <item:projectred-core:copper_ingot>;
-var copperBlock = <item:projectred-exploration:copper_block>;
+var arcFurnace = <recipetype:bloodmagic:arc>;
 
-/*
-var tinOre = <tag:items:forge:ores/tin>;
-var tinIngot = <tag:items:forge:ingots/tin>;
-var tinBlock = <tag:items:forge:storage_blocks/tin>;
+// Copper
+var copper = <item:projectred-core:copper_ingot>
+    |<item:projectred-exploration:copper_ore>
+    |<item:projectred-exploration:copper_block>;
 
-var silverOre = 
-var silverIngot = 
-var silverBlock = 
-*/
+for item in copper.items {
+	craftingTable.removeRecipe(item);
+	furnace.removeRecipe(item);
+	arcFurnace.removeRecipe(item);
+	<tag:items:forge:ingots>.remove(item);
+	<tag:items:forge:ingots/copper>.remove(item);
+	<tag:items:forge:ores/copper>.remove(item);
+	<tag:items:forge:storage_blocks/copper>.remove(item);
+	JEI.hideItem(item);
+}
 
-var sapphireOreTag = <tag:items:forge:ores/sapphire>;
-var sapphireOreBlockTag = <tag:blocks:forge:ores/sapphire>;
-var sapphireGemTag = <tag:items:forge:gems/sapphire>;
-var sapphireBlockTag = <tag:items:forge:storage_blocks/sapphire>;
-var sapphireBlockBlockTag = <tag:blocks:forge:storage_blocks/sapphire>;
+<tag:blocks:forge:ores/copper>.remove(<block:projectred-exploration:copper_ore>);
+<tag:blocks:forge:storage_blocks/copper>.remove(<block:projectred-exploration:copper_block>);
 
-var sapphireOre = <item:projectred-exploration:sapphire_ore>;
-var sapphireGem = <item:projectred-core:sapphire>;
-var sapphireBlock = <item:projectred-exploration:sapphire_block>;
+// Sapphire
+var sapphire = <item:projectred-core:sapphire>
+    |<item:projectred-exploration:sapphire_ore>
+    |<item:projectred-exploration:sapphire_block>;
 
+for item in sapphire.items {
+	craftingTable.removeRecipe(item);
+	furnace.removeRecipe(item);
+	arcFurnace.removeRecipe(item);
+	<tag:items:forge:gems>.remove(item);
+	<tag:items:forge:gems/sapphire>.remove(item);
+	<tag:items:forge:ores/sapphire>.remove(item);
+	<tag:items:forge:storage_blocks/sapphire>.remove(item);
+	JEI.hideItem(item);
+}
+
+<tag:blocks:forge:ores/sapphire>.remove(<block:projectred-exploration:sapphire_ore>);
+<tag:blocks:forge:storage_blocks/sapphire>.remove(<block:projectred-exploration:sapphire_block>);
+
+// Sulfur
 var sulfur = <item:bloodmagic:sulfur>;
 
-// Unify Copper
-copperOreTag.remove(copperOre);
-copperOreBlockTag.remove(<block:projectred-exploration:copper_ore>);
-copperIngotTag.remove(copperIngot);
-copperBlockTag.remove(copperBlock);
-copperBlockBlockTag.remove(<block:projectred-exploration:copper_block>);
-ingot.remove(copperIngot);
-
-craftingTable.removeRecipe(copperIngot);
-craftingTable.removeRecipe(copperBlock);
-furnace.removeRecipe(copperIngot);
-<recipetype:bloodmagic:arc>.removeRecipe(copperIngot);
-
-mods.jei.JEI.hideItem(copperOre);
-mods.jei.JEI.hideItem(copperIngot);
-mods.jei.JEI.hideItem(copperBlock);
-
-// Unify Sapphire
-sapphireOreTag.remove(sapphireOre);
-sapphireOreBlockTag.remove(<block:projectred-exploration:sapphire_ore>);
-sapphireGemTag.remove(sapphireGem);
-sapphireBlockTag.remove(sapphireBlock);
-sapphireBlockBlockTag.remove(<block:projectred-exploration:sapphire_block>);
-gem.remove(sapphireGem);
-
-craftingTable.removeRecipe(sapphireGem);
-craftingTable.removeRecipe(sapphireBlock);
-furnace.removeRecipe(sapphireGem);
-<recipetype:bloodmagic:arc>.removeRecipe(sapphireGem);
-
-mods.jei.JEI.hideItem(sapphireOre);
-mods.jei.JEI.hideItem(sapphireGem);
-mods.jei.JEI.hideItem(sapphireBlock);
-
-// Unify Sulfur
-<recipetype:bloodmagic:arc>.removeRecipe(<item:bloodmagic:sulfur>);
-<tag:items:forge:dusts/sulfur>.remove(<item:bloodmagic:sulfur>);
-mods.jei.JEI.hideItem(<item:bloodmagic:sulfur>);
+for item in sulfur.items {
+	<tag:items:forge:dusts/sulfur>.remove(item);
+	JEI.hideItem(item);
+}
