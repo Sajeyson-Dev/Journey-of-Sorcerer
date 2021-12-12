@@ -11,9 +11,9 @@
 	adventGuiTheme = "Ancient Ruins"
 	#Choose a corner to have your resources indicators render in.
 	#Allowed Values: Top_Right, Top_Left, Bottom_Right, Bottom_Left
-	hudResourcesPosition = "Bottom_Right"
+	hudResourcesPosition = "Bottom_Left"
 	#Set this to true to stop the skills and resources HUD elements shifting down when players have potion effects.
-	disableHudPotionOffset = false
+	disableHudPotionOffset = true
 	#If multiple halos are available, which one would you prefer to have on?
 	#Allowed Values: Donator, Super_Donator, Wiki_Editor
 	personalHaloPreference = "Donator"
