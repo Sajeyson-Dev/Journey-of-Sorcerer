@@ -5,9 +5,9 @@
 	showHearths = false
 	#Does dps message update dynamically or will it only appear after each parse? 
 	dynamicDPS = true
-	#possible skins: 0 = default, 1 = original, 2 = my attempt
-	#Range: 0 ~ 2
-	texture = 0
+	#Skin used by the dummy
+	#Allowed Values: DEFAULT, ORIGINAL, DUNGEONS, ALTERNATIVE
+	texture = "DEFAULT"
 	#How much the dummy swings in degrees with respect to the damage dealt. default=0.75
 	#Range: 0.0 ~ 2.0
 	animationIntensity = 0.75
@@ -21,8 +21,9 @@
 		explosion = "0xFFCC33"
 		trident = "0x00FFCC"
 		crit = "0xff0000"
-		indirect_magic = "0x990033"
 		cactus = "0x006600"
 		fire = "0xFF9900"
 		wither = "0x666666"
+		magic_indirect = "844ce7"
+		true_damage = "910038"
 

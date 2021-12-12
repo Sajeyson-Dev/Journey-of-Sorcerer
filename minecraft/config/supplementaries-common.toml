@@ -13,10 +13,12 @@
 		blacklist = ["minecraft:end_portal_frame"]
 
 	[blocks.cage]
-		#allow all baby mobs to be captured by cages
+		#Allows all baby mobs to be captured by cages
 		cage_allow_all_babies = false
-		#allow all entities to be captured by cages and jars. Not meant for survival
-		cage_allow_all_mobs = false
+		#Allows all entities to be captured by cages and jars. Not meant for survival
+		allow_all_mobs = false
+		#Dynamically allows all small mobs inside cages depending on their hitbox size
+		cage_auto_detect = false
 
 	[blocks.candle_holder]
 		#Candle holder light level
@@ -24,9 +26,6 @@
 		light_level = 12
 
 	[blocks.globe]
-		#chanche of finding a globe in a shipwreck treasure chest.
-		#Range: 0.0 ~ 1.0
-		shipwreck_treasure_chance = 0.25
 		#how many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
 		#Range: 0 ~ 50
 		chance = 2
@@ -35,16 +34,18 @@
 		#Maximum block range
 		#Range: 0 ~ 100000000
 		range = 64
+		#Enable/disable speaker block narrator mode
+		narrator_enabled = true
 
 	[blocks.sack]
-		#Penalize the player with slowness effect when carrying too many sacks
-		sack_penality = true
-		#maximum number of sacks after which the slowness effect will be applied. each multiple of this number will further slow the player down
+		#Maximum number of sacks after which the slowness effect will be applied. each multiple of this number will further slow the player down
 		#Range: 0 ~ 50
 		sack_increment = 2
 		#How many slots should a sack have
 		#Range: 1 ~ 27
 		slots = 9
+		#Penalize the player with slowness effect when carrying too many sacks
+		sack_penalty = true
 
 	[blocks.spring_launcher]
 		#fall distance needed to trigger the automatic spring launch
@@ -83,16 +84,20 @@
 		simple_safes = false
 
 	[blocks.notice_board]
-		#allow notice boards to accept and display any item, not just maps and books
+		#Allows notice boards to accept and display any item, not just maps and books
 		allow_any_item = false
 
 	[blocks.jar]
-		#allow right click to instantly eat or drink food or potions inside a jar.
-		#Disable if you think this ability is op. Cookies are excluded
+		#Allow right click to instantly eat or drink food or potions inside a placed jar.
+		#Disable if you think this ability is op (honey for example). Cookies are excluded
 		drink_from_jar = true
-		#jar liquid capacity: leave at 12 for pixel accuracy
+		#Jar liquid capacity: leave at 12 for pixel accuracy
 		#Range: 0 ~ 1024
 		capacity = 12
+		#Allows the player to directly drink from jar items
+		drink_from_jar_item = false
+		#Dynamically allows all small mobs inside jars depending on their hitbox size. Tinted jars can accept hostile mbos too
+		jar_auto_detect = false
 
 	[blocks.hourglass]
 		#Time in ticks for sugar
@@ -130,10 +135,14 @@
 	[blocks.iron_gate]
 		#Allows two iron gates to be opened simultaneously when on top of the other
 		double_opening = true
+		#Makes iron (ang gold) gates behave like their door counterpart so for example iron gates will only be openeable by redstone
+		door-like_gates = false
 
 	[blocks.timber_frame]
 		#Replace a timber frame with wattle and daub block when daub is placed in it
 		replace_daub = true
+		#Allow placing a timber frame directly on a block by holding shift
+		swap_on_shift = false
 
 	[blocks.flag]
 		#Allows right/left clicking on a stick to lower/raise a flag attached to it
@@ -175,6 +184,9 @@
 			#list of structure that a sign can point to. Note that they will only spawn in dimensions where vanilla villages can
 			villages = ["minecraft:village", "repurposed_structures:village_badlands", "repurposed_structures:village_dark_oak", "repurposed_structures:village_birch", "repurposed_structures:village_giant_taiga", "repurposed_structures:village_jungle", "repurposed_structures:village_mountains", "repurposed_structures:village_oak", "repurposed_structures:village_swamp", "pokecube:village", "pokecube_legends:village", "pokecube_legends:village/ocean", "valhelsia_structures:castle", "valhelsia_structures:castle_ruin", "valhelsia_structures:small_castle", "valhelsia_structures:tower_ruin"]
 
+		[spawns.structures.wild_flax]
+			enabled = true
+
 #entities parameters
 [entities]
 
@@ -195,13 +207,15 @@
 [tweaks]
 
 	[tweaks.wall_lantern]
-		#mod ids of mods that have lantern block that extend the base lantern class but don't look like one
+		#Mod ids of mods that have lantern block that extend the base lantern class but don't look like one
 		mod_blacklist = ["extlights", "betterendforge"]
-		#allow wall lanterns placement
+		#Allow wall lanterns placement
 		enabled = true
+		#Gives high priority to wall lantern placement. Enable to override other wall lanterns placements, disable if it causes issues with other mods that use lower priority block click events
+		high_priority = true
 
 	[tweaks.throwable_bricks]
-		#throw bricks at your foes! Might break glass blocks
+		#Throw bricks at your foes! Might break glass blocks
 		enabled = true
 
 	[tweaks.hanging_flower_pots]
@@ -209,9 +223,9 @@
 		enabled = true
 
 	[tweaks.cake_tweaks]
-		#allows you to place a cake ontop of another
+		#Allows you to place a cake on top of another
 		double_cake = true
-		#replaces normal cake placement with a directional one
+		#Replaces normal cake placement with a directional one
 		directional_cake = true
 
 	[tweaks.bells_tweaks]
@@ -264,10 +278,38 @@
 		#Amount of rotten flesh needed
 		#Range: 1 ~ 1000
 		rotten_flesh = 64
+		#Allows zombie horses to be ridden underwater
+		rideable_underwater = true
 
 	[tweaks.placeable_sticks]
-		#allow placeable blaze rods
+		#Allow placeable sticks
+		sticks = true
+		#Allow placeable blaze rods
+		blaze_rods = true
+
+	[tweaks.placeable_gunpowder]
+		#Allow placeable gunpowder
 		enabled = true
+		#Number of ticks it takes for gunpowder to burn 1 stage (out of 8). Increase to slow it down
+		#Range: 0 ~ 20
+		speed = 2
+		#Age at which it spread to the next gunpowder block. Also affects speed
+		#Range: 0 ~ 8
+		spread_age = 2
+
+	[tweaks.placeable_books]
+		#Allow books and enchanted books to be placed on the ground
+		enabled = true
+		#Allow all books to be placed both vertically and horizontally
+		mixed_books = false
+		#Allows written books to be placeable (will need shift clicking)
+		written_books = false
+		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
+		#Range: 0.0 ~ 5.0
+		book_power = 1.0
+		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
+		#Range: 0.0 ~ 5.0
+		enchanted_book_power = 1.334
 
 [items]
 
@@ -282,6 +324,9 @@
 	[items.rope_arrow]
 		#If you don't like my ropes you can specify here the block id ofa rope from another mod which will get deployed by rope arrows instead of mine
 		rope_arrow_override = "supplementaries:rope"
+		#Max number of robe items allowed to be stored inside a rope arrow
+		#Range: 1 ~ 256
+		capacity = 24
 
 	[items.bomb]
 		#Bomb explosion radius (damage depends on this)
@@ -290,4 +335,30 @@
 		#Do bombs break blocks like tnt?
 		#Allowed Values: ALL, WEAK, NONE
 		break_blocks = "WEAK"
+
+	[items.blue_bomb]
+		#Bomb explosion radius (damage depends on this)
+		#Range: 0.1 ~ 10.0
+		explosion_radius = 5.15
+		#Do bombs break blocks like tnt?
+		#Allowed Values: ALL, WEAK, NONE
+		break_blocks = "WEAK"
+
+	[items.slingshot]
+		#Slingshot range multiplier. Affect the initial projectile speed
+		#Range: 0.0 ~ 5.0
+		range_multiplier = 1.0
+		#Time in ticks to fully charge a slingshot
+		#Range: 0 ~ 100
+		charge_time = 20
+		#Deceleration for the stasis projectile
+		#Range: 0.1 ~ 1.0
+		stasis_deceleration = 0.9625
+		#Allow enderman to intercept any slingshot projectile
+		unrestricted_enderman_intercept = true
+
+#General settings
+[general]
+	#Turn this on to disable any interaction on blocks placed by other players. This affects item shelves, signs, flower pots, and boards. Useful for protected servers. Note that it will affect only blocks placed after this is turned on and such blocks will keep being protected after this option is disabled
+	server_protection = false
 

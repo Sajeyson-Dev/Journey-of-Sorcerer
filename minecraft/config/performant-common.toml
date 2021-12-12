@@ -44,38 +44,38 @@ displayTooLargePackets = true
 	#Entity spawn interval setting, determines how frequently entities are spawned overall. 1 = Vanilla default, default = 10
 	#Range: 1 ~ 1000
 	spawnInterval = 10
+	#List of entities excluded from beeing affected by dynamic entity updates: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
+	excludedTickDistanceMobs = ["farmingforblockheads:merchant"]
 	#Fix leash lag from entities on a leash, default = true
 	fixLeash = true
+	#Enable multithreading support for entities, requires fastCollisions to be enabled. default = true
+	multiEntities = true
+	#Disables block changes notifying all entity paths in the world, to possibly adjust their paths, disable with IE, incompat, default = true
+	disableNotifyOnBlockChange = true
 	#Slower updating of armor stands, default = true
 	slowArmorStands = true
 	#Enables improved entity collision and movement calculations for any non item entity, default = true
 	fastCollisions = true
 	#Enables less laggy entity item pickup, default = true
 	noLagItemPickup = true
-	#Enable multithreading support for entities, requires fastCollisions to be enabled. default = true
-	multiEntities = true
-	#Disables block changes notifying all entity paths in the world, to possibly adjust their paths, disable with IE, incompat, default = true
-	disableNotifyOnBlockChange = true
+	#Enables dynamic update distance, it will reduces entity updates when far away from the player, respecting the entities own update range. default = true. Requires restart
+	enableDynamicEntityUpdates = true
 	#Enables fast itemstack comparisons
 	fastItemCompare = true
 	#Entity density setting, determines how many entities are spawned overall. 1 = Vanilla default, 0.1 e.g 10x less than vanilla. 10 = 10x more than vanilla, default = 1
 	#Range: 0.01 ~ 100.0
 	entityDensity = 1.0
+	#Enables dynamic entity rendering, stops non-visible entities from beeing rendered but can sometimes cause a slight phasing-in delay. Usually a large boost to fps, default = true. Require restart
+	enableDynamicEntityRendering = true
 	#Enable fast inventory advancement triggers, many advancements based on items tend to lag the players, default = true
 	fastInventoryAdvancement = true
 	#Adapt entity speed to tps, makes entities struggle less with lag. default = true
 	adaptiveSpeed = true
-	#Enable faster pathfinding, default = true
-	fastPathFinding = false
-	#Enables dynamic entity rendering, stops non-visible entities from beeing rendered but can sometimes cause a slight phasing-in delay. Usually a large boost to fps, default = true. Require restart
-	enableDynamicEntityRendering = true
-	#Enables dynamic update distance, it will reduces entity updates when far away from the player, respecting the entities own update range. default = true. Requires restart
-	enableDynamicEntityUpdates = true
 	#Entity dynamic update distance setting, reduces the entities own update range from players at which entities get slowed down, in chunks(16blocks). The higher you set this, the closer to the player entities will get slower updates. Default = 0
 	#Range: 0 ~ 1000
 	entityUpdateDistanceReduction = 0
-	#List of entities excluded from beeing affected by dynamic entity updates: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
-	excludedTickDistanceMobs = []
+	#Enable faster pathfinding, default = true
+	fastPathFinding = false
 
 ["Entity AI Settings"]
 	#Sets the tick interval in which non-running AI tasks are rechecked. Vanilla default is 1(starting with 1.13+), this mods suggested default is 4(as it was in vanilla 1.12)
@@ -101,15 +101,15 @@ displayTooLargePackets = true
 	cacheRecipes = true
 	#Enable fast spawn radius check, this makes entity spawn mechanics lag less. default = true
 	fastSpawnRadius = true
+	#Set how many scheduled blocks are updated each tick, scheduled block updates are for example fluid flowing. default = 1000, vanilla default = 65536
+	#Range: 1 ~ 65536
+	blockTicks = 3000
 	#Enable fast chunk save, unmodified chunks are saved a lot faster and cause less lag when saving to disk. default = true
 	fastChunkSave = true
 	#Enable FPS improvements, default = true
 	betterFps = true
 	#Enable fast chunk block ticks, reduces lag on random block ticks in the world but keeps the same growth e.g. on crops. default = true
 	fastChunkBlocks = true
-	#Set how many scheduled blocks are updated each tick, scheduled block updates are for example fluid flowing. default = 1000, vanilla default = 65536
-	#Range: 1 ~ 65536
-	blockTicks = 3000
 
 ["Utility settings, debugging and other"]
 	#Set the max login timeout during connection in ticks. 20 ticks = 1 sec, default = 120 seconds
@@ -124,15 +124,15 @@ displayTooLargePackets = true
 	disableConfigReload = false
 	#Enable printing of world/chunk saves for debugging purposes, those normally happen every 5minutes. default = false
 	printWorldSaves = false
-	#Set the ingame disconnect timeout for disconnecting players. Default = 60sec
-	#Range: 15 ~ 400
-	disconnectTimeout = 60
-	#List of mobs disallowed from spawning: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
-	forbiddenMobs = []
 	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
 	#Range: -1 ~ 500000
 	singlePlayerWatchDogTimeout = 180000
+	#Set the ingame disconnect timeout for disconnecting players. Default = 60sec
+	#Range: 15 ~ 400
+	disconnectTimeout = 60
 	#Set the maximum allowed amount of same sounds playing at the same time. Lowers e.g. lag of flowing water and other cases where a sound is repeated a lot at once. Default = 10
 	#Range: 1 ~ 4000
-	maxSameSounds = 10
+	maxSameSounds = 64
+	#List of mobs disallowed from spawning: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
+	forbiddenMobs = []
 

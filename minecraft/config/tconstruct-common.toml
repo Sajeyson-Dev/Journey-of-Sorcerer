@@ -26,13 +26,15 @@
 	witherBoneConversion = true
 	#Number of nuggets produced when an ore block is melted in the melter. 9 would give 1 ingot
 	#Range: 1 ~ 45
-	melterNuggetsPerOre = 12
+	melterNuggetsPerOre = 18
 	#Number of nuggets produced when an ore block is melted in the smeltery. 9 nuggets would give 1 ingot
 	#Range: 1 ~ 45
 	smelteryNuggetsPerOre = 18
 	#Number of nuggets produced when an ore block is melted in the foundry. 9 nuggets would give 1 ingot
 	#Range: 1 ~ 45
-	foundryNuggetsPerOre = 15
+	foundryNuggetsPerOre = 18
+	#Fixes clear glass not being usable in vanilla recipes that require glass. Config option exists to disable easily in case this fix is redundant to another mod
+	glassRecipeFix = true
 
 	#Entity head drops when killed by a charged creeper
 	[recipes.heads]
