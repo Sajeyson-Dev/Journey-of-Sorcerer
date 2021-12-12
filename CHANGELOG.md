@@ -3,7 +3,7 @@
 - Tooltips for all ranged weapons and some other items to provide more info...
 - JourneyMap config pre-set.
 - Molten Knightmetal.
-- Some materials for Tinker's Anvils.
+- Some Block materials for Tinker's Anvils.
 - Fire Gauntlet recipe.
 - Some blocks for Beacon base.
 - Giant obsidian can be melted in a Smeltery.
