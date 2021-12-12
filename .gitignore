@@ -1,13 +1,19 @@
 .packignore
 /instance.cfg
 /mmc-pack.json
+/README.html
 /natives/
 
 /minecraft/.mixin.out/
 /minecraft/backups/
-/minecraft/.coremods/
+/minecraft/coremods/
 /minecraft/craftpresence/
-/minecraft/journeymap/
+/minecraft/crash-reports/
+/minecraft/ESM/
+/minecraft/journeymap/data/
+/minecraft/journeymap/icon/
+/minecraft/journeymap/server/
+/minecraft/journeymap/journeymap.log
 /minecraft/local/
 /minecraft/logs/
 /minecraft/mods
@@ -16,6 +22,7 @@
 /minecraft/saves/
 /minecraft/screenshots/
 /minecraft/server-resource-packs/
+/minecraft/tconplanner/
 /minecraft/texturepacks/
 /minecraft/BotaniaVars.dat
 /minecraft/knownkeys.txt
@@ -24,3 +31,8 @@
 /minecraft/usercache.json
 /minecraft/usernamecache.json
 /minecraft/servers*
+/minecraft/TrashSlotSaveState.json
+
+#Dev branch restrict
+/minecraft/config/ftbquests/
+/minecraft/scripts/common/QuestUtil.zs
