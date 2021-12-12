@@ -33,7 +33,3 @@
 /minecraft/usernamecache.json
 /minecraft/servers*
 /minecraft/TrashSlotSaveState.json
-
-#Dev branch restrict
-/minecraft/config/ftbquests/
-/minecraft/scripts/common/QuestUtil.zs
