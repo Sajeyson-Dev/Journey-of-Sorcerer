@@ -2,7 +2,7 @@
 [Upstream_Noise]
 	#How spread out rivers generate.
 	#Range: -1000.0 ~ 1000.0
-	RiverSpread = 0.002
+	RiverSpread = 0.005
 	#How frequent rivers curve.
 	#Range: -1000.0 ~ 1000.0
 	CurvingFrequency = 0.002
