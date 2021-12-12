@@ -1,3 +1,45 @@
+## **Journey of Sorcerer: 2.3-release.**
+>**Added:**
+- Tooltips for all ranged weapons and some other items to provide more info...
+- JourneyMap config pre-set.
+- Molten Knightmetal.
+- Some materials for Tinker's Anvils.
+- Fire Gauntlet recipe.
+- Some blocks for Beacon base.
+- Giant obsidian can be melted in a Smeltery.
+#### Mods:
+- Advancement Plaques (by Grend_G)
+- Better Fps - Render Distance[Forge/Fabric]
+- Champions (by TheIllusiveC4)
+- Iceberg (by Grend_G)
+- JourneyMap Integration (by frankv_)
+- Mowzie's Mobs (by bobmowzie)
+- Puzzles Lib [Forge] (by Fuzs_)
+- Stylish Effects [Forge] (by Fuzs_)
+- Sulfuric (by someoneelsewastaken)
+- Stoneholm, Underground Villages (Forge) (by TheGrimsey)
+- Snow Under Trees (by bl4ckscor3)
+- Tomes (by VulpTheHorseDog)
+- Tinker's Planner (by tiffit_)
+- YUNG's Bridges (Forge) (by YUNGNICKYOUNG)
+>**Removed:**
+#### Mods:
+- Mini Effects (by Snownee_)
+>**Changes:**
+- Updated Forge to 36.2.19.
+- Updated mods.
+- Improved scripts, a lot...
+- Changed hud locations to avoid conflicting.
+- Smeltery and Foundry Controllers recipes.
+- Increased max level for the Astral Sorcery perk tree from 40 to 64.
+- Now the player can only increase 1 heart for every 10 types of food 10 times.
+- Rivers now smaller, more similar to 1.18 rivers.
+- Disabled bedrolls from Upgrade Aquatic.
+>**Fixed:**
+- Emerald Muncher is not being summoned from the sky by the market.
+- Lunalus worldgen.
+- Fixed blocks that can be chiseled in the UI cannot be chiseled in the world
+
 ## **Journey of Sorcerer: 2.2.2-release.**
 >**Changes:**
 - Updated mods.
