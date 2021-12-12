@@ -1,3 +1,5 @@
+#priority 75
+
 // Burntime
 <item:contenttweaker:tiny_coal>.burnTime = 200;
 <item:contenttweaker:tiny_charcoal>.burnTime = 200;
