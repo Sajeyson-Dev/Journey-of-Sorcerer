@@ -1,4 +1,6 @@
 {
 	"item.contenttweaker.tiny_coal": "Tiny Coal",
-	"item.contenttweaker.tiny_charcoal": "Tiny Charcoal"
+	"item.contenttweaker.tiny_charcoal": "Tiny Charcoal",
+	"fluid.contenttweaker.molten_knightmetal": "Molten Knightmetal",
+	"item.contenttweaker.molten_knightmetal_bucket": "Molten Knightmetal Bucket"
 }
