@@ -2,7 +2,7 @@
 **Note:**  **Before entering you world, you need to remove champions-server.toml file, located in GameDirectory/saves/YourWorldFolder/serverconfig**
 
 >**Added:**
-- JEI Item groups (Melee, ranged, magic, summon weapons. Boss summons, xp storing, ore processing end game(WIP) and armor sets);
+- JEI Item groups (Melee, ranged, magic, summon weapons. Boss summons, xp storing, ore processing end game(WIP) and armor sets).
 - Info tooltips for some items.
 - More Easter Eggs
 >**Changes:**
