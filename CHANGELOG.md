@@ -1,8 +1,10 @@
 ## **Journey of Sorcerer: 2.4-release.**
->**Note**: Before entering you world, you need to remove champions-server.toml file, located in GameDirectory/saves/YourWorldFolder/serverconfig
+**Note:**  **Before entering you world, you need to remove champions-server.toml file, located in GameDirectory/saves/YourWorldFolder/serverconfig**
+
 >**Added:**
 - JEI Item groups (Melee, ranged, magic, summon weapons. Boss summons, xp storing, ore processing end game(WIP) and armor sets);
 - Info tooltips for some items.
+- More Easter Eggs
 >**Changes:**
 - Updated mods.
 - Updated forge to 36.2.22
