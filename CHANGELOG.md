@@ -1,3 +1,16 @@
+## **Journey of Sorcerer: 2.4-release.**
+>**Note**: Before entering you world, you need to remove champions-server.toml file, located in GameDirectory/saves/YourWorldFolder/serverconfig
+>**Added:**
+- JEI Item groups (Melee, ranged, magic, summon weapons. Boss summons, xp storing, ore processing end game(WIP) and armor sets);
+- Info tooltips for some items.
+>**Changes:**
+- Updated mods.
+- Updated forge to 36.2.22
+- Nearly all scripts has been rewritten.
+- Changed huds position to avoid conflicts, again... (No conflicts if you on 3rd GUI Scale).
+>**Fixed:**
+- Mowzie's Mobs bosses can be champions.
+
 ## **Journey of Sorcerer: 2.3-release.**
 >**Added:**
 - Tooltips for all ranged weapons and some other items to provide more info...
