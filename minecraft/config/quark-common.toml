@@ -1893,12 +1893,12 @@
 
 	[client.usage_ticker]
 		#Switch the armor display to the off hand side and the hand display to the main hand side
-		Invert = false
+		Invert = true
 		"Shift Right" = 0
 		"Enable Armor" = true
-		"Enable Off Hand" = true
+		"Enable Off Hand" = false
 		"Shift Left" = 0
-		"Enable Main Hand" = true
+		"Enable Main Hand" = false
 
 	[client.variant_animal_textures]
 		"Enable Shiny Llama" = true
