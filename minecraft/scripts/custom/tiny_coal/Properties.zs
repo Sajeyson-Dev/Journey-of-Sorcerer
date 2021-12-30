@@ -1,9 +1,9 @@
-#priority 75
+#priority 80
 
 // Burntime
-<item:contenttweaker:tiny_coal>.burnTime = 200;
-<item:contenttweaker:tiny_charcoal>.burnTime = 200;
+Materials.tinyCoal.burnTime = 200;
+Materials.tinyCharcoal.burnTime = 200;
 
 // Tag
-<tag:items:forge:nuggets/coal>.add(<item:contenttweaker:tiny_coal>);
-<tag:items:forge:nuggets/charcoal>.add(<item:contenttweaker:tiny_charcoal>);
+<tag:items:forge:nuggets/coal>.add(Materials.tinyCoal);
+<tag:items:forge:nuggets/charcoal>.add(Materials.tinyCharcoal);

@@ -1,4 +1,4 @@
-#priority 48
+#priority 72
 
 // Adding some materials for anvils
 <tag:items:tconstruct:anvil_metal>.add(

@@ -1,5 +1,5 @@
 #loader contenttweaker
-#priority 96
+#priority 128
 
 import mods.contenttweaker.fluid.FluidBuilder;
 

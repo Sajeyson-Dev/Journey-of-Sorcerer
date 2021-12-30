@@ -2,11 +2,10 @@
 
 // Disabling Energy and Ultimate Trash Cans
 
-import mods.jei.JEI;
+import crafttweaker.api.item.IItemStack;
 
-var trashCans = <item:trashcans:energy_trash_can> | <item:trashcans:ultimate_trash_can>;
+var trashCans as IItemStack[]= [<item:trashcans:energy_trash_can>, <item:trashcans:ultimate_trash_can>];
 
-for item in trashCans.items {
-	craftingTable.removeRecipe(item);
-	JEI.hideItem(item);
+for item in trashCans {
+	removeAndHide(item);
 }

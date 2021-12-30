@@ -1,25 +1,23 @@
 #priority 64
 
-import mods.jei.JEI;
+import crafttweaker.api.item.IItemStack;
 
-var arcFurnace = <recipetype:bloodmagic:arc>;
-var alchemyTable = <recipetype:bloodmagic:alchemytable>;
+var toRemove as IItemStack[] = [
+    <item:bloodmagic:ironsand>,
+    <item:bloodmagic:goldsand>, 
+    <item:bloodmagic:sand_netherite>,
+    <item:bloodmagic:ironfragment>,
+    <item:bloodmagic:goldfragment>,
+    <item:bloodmagic:fragment_netherite_scrap>,
+    <item:bloodmagic:irongravel>,
+    <item:bloodmagic:goldgravel>,
+    <item:bloodmagic:gravel_netherite_scrap>];
 
-var arcRecipes =  <item:bloodmagic:ironsand> 
-    |<item:bloodmagic:goldsand> 
-    |<item:bloodmagic:sand_netherite>
-    |<item:bloodmagic:ironfragment>
-    |<item:bloodmagic:goldfragment>
-    |<item:bloodmagic:fragment_netherite_scrap>
-    |<item:bloodmagic:irongravel>
-    |<item:bloodmagic:goldgravel>
-    |<item:bloodmagic:gravel_netherite_scrap>;
-
-for item in arcRecipes.items {
-	arcFurnace.removeRecipe(item);
-	alchemyTable.removeRecipe(item);
+for item in toRemove {
+	removeARC(item);
+	removeAlchemy(item);
 	<tag:items:forge:dusts/iron>.remove(item);
 	<tag:items:forge:dusts/gold>.remove(item);
 	<tag:items:forge:dusts/netherite_scrap>.remove(item);
-	JEI.hideItem(item);
+	hide(item);
 }

@@ -1,4 +1,4 @@
-#priority 48
+#priority 72
 
 <tag:blocks:minecraft:beacon_base_blocks>.add(
     [<block:projectred-exploration:peridot_block>,

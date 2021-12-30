@@ -1,8 +1,5 @@
 #priority 8
 
-import mods.initialinventory.InvHandler;
-import mods.jei.JEI;
-
 var fullAkashicTome = <item:akashictome:tome>.withTag({"akashictome:is_morphing": 1 as byte, "akashictome:data": {
     tconstruct: {id: "tconstruct:materials_and_you" as string, Count: 1 as byte, tag: {mantle: {book: {current_page: "" as string}}, "akashictome:displayName": {text: "Materials and You" as string}, "akashictome:is_morphing": 1 as byte, display: {Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Materials and You\"}]}" as string}}},
     botania: {id: "botania:lexicon" as string, Count: 1 as byte, tag: {"akashictome:displayName": {text: "Tech Mod Guide GUI" as string}, "akashictome:is_morphing": 1 as byte, display: {Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"A Tech Mod Guide\"}]}" as string}}},
@@ -18,14 +15,14 @@ var fullAkashicTome = <item:akashictome:tome>.withTag({"akashictome:is_morphing"
     supplementaries: {id: "patchouli:guide_book" as string, Count: 1 as byte, tag: {"akashictome:displayName": {text: "§6Supplemental Manual" as string}, "patchouli:book": "supplementaries:supplementaries_guide" as string, "akashictome:is_morphing": 1 as byte, display: {Name: "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"§6Supplemental Manual\"}]}" as string}}}}});
 
 // Akashic Tome
-InvHandler.addStartingItem("Akashic Tome", fullAkashicTome, 0);
+sartingItem("Akashic Tome", fullAkashicTome, 0);
 
 // Full Akashic Tome Recipe
-craftingTable.addShapeless("full_akashic_tome", fullAkashicTome, 
-    [<tag:items:forge:bookshelves>, <tag:items:forge:gems/emerald>]);
+addShapeless("full_akashic_tome", fullAkashicTome, 
+    [<tag:items:forge:bookshelves>, Gems.emerald]);
 
 // Adding Full Tome to JEI
-JEI.addItem(fullAkashicTome);
+addToJEI(fullAkashicTome);
 
 // Food
-InvHandler.addStartingItem("Food", <item:pamhc2foodextended:pearjellysandwichitem>, 1);
+sartingItem("Food", <item:pamhc2foodextended:pearjellysandwichitem>, 1);

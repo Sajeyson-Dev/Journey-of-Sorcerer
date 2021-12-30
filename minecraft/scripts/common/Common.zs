@@ -1,25 +1,21 @@
 #priority 64
 
-var anyLogs = <tag:items:minecraft:logs>;
-var anyPlanks = <tag:items:minecraft:planks>;
-var none = <item:minecraft:air>;
-
 // Vanilla Chest
-craftingTable.addShaped("vanilla_chest_from_logs", <item:minecraft:chest> * 4, [
-    [anyLogs, anyLogs, anyLogs],
-    [anyLogs, none, anyLogs],
-    [anyLogs, anyLogs, anyLogs]]);
+addShaped("vanilla_chest_from_logs", Containers.chest * 4, [
+    [Materials.logsTag, Materials.logsTag, Materials.logsTag],
+    [Materials.logsTag, Utils.none, Materials.logsTag],
+    [Materials.logsTag, Materials.logsTag, Materials.logsTag]]);
 
-craftingTable.addShaped("vanilla_chest_from_planks", <item:minecraft:chest>, [
-    [anyPlanks, anyPlanks, anyPlanks],
-    [anyPlanks, none, anyPlanks],
-    [anyPlanks, anyPlanks, anyPlanks]]);
+addShaped("vanilla_chest_from_planks", Containers.chest, [
+    [Materials.planksTag, Materials.planksTag, Materials.planksTag],
+    [Materials.planksTag, Utils.none, Materials.planksTag],
+    [Materials.planksTag, Materials.planksTag, Materials.planksTag]]);
 
 // Trapped Chest
-craftingTable.addShapeless("trapped_chest", <item:minecraft:trapped_chest>,
-    [<item:minecraft:chest>, <item:minecraft:tripwire_hook>]);
+addShapeless("trapped_chest", Containers.trappedChest,
+    [Containers.chest, <item:minecraft:tripwire_hook>]);
 
 // Quick Sticks
-craftingTable.addShaped("sticks", <item:minecraft:stick> * 16, [
-    [<tag:items:minecraft:logs>],
-    [<tag:items:minecraft:logs>]]);
+addShaped("sticks", Materials.stick * 16, [
+    [Materials.logsTag],
+    [Materials.logsTag]]);
