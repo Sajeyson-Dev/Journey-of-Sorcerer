@@ -11,205 +11,205 @@ Journey of Sorcerer modpack source and issues tracker.
 
 >#### Adventuring Mods:
 
-- Advent of Ascension (Nevermine) (by Scimiguy)
-- The Twilight Forest (by Benimatic)
+- Advent of Ascension (Nevermine)
+- The Twilight Forest
 
 >#### Magic Mods:
 
-- Ars Nouveau (by baileyholl2)
-- Astral Sorcery (by HellFirePvP)
-- Botania (by Vazkii)
-- Blood Magic (by WayofTime)
-- Druidcraft (by VulpTheHorseDog)
-- Eidolon (by elucent_)
-- Reliquary v1.3 (by P3pp3rF1y)
-- MythicBotany (by noeppinoeppi)
-- Nature's Aura (by Ellpeck)
+- Ars Nouveau
+- Astral Sorcery
+- Botania
+- Blood Magic
+- Druidcraft
+- Eidolon
+- Reliquary v1.3
+- MythicBotany
+- Nature's Aura
 
 >#### Worldgen Mods:
 
-- Traverse Reforged (by Noobanidus)
-- Upstream (by Corgi_Taco)
-- Autumnity (by TeamAbnormals)
-- Atmospheric (by TeamAbnormals)
-- Bayou Blues (by ex0planetary)
-- Environmental (by TeamAbnormals)
-- Upgrade Aquatic (by TeamAbnormals)
+- Traverse Reforged
+- Upstream
+- Autumnity
+- Atmospheric
+- Bayou Blues
+- Environmental
+- Upgrade Aquatic
 
 >#### Other Mods:
 
-- Advancement Plaques (by Grend_G)
+- Advancement Plaques
 - Better Fps - Render Distance[Forge/Fabric]
-- Champions (by TheIllusiveC4)
-- Iceberg (by Grend_G)
-- JourneyMap Integration (by frankv_)
-- Mowzie's Mobs (by bobmowzie)
-- Puzzles Lib [Forge] (by Fuzs_)
-- Stylish Effects [Forge] (by Fuzs_)
-- Sulfuric (by someoneelsewastaken)
-- Stoneholm, Underground Villages (Forge) (by TheGrimsey)
-- Snow Under Trees (by bl4ckscor3)
-- Tomes (by VulpTheHorseDog)
-- Tinker's Planner (by tiffit_)
-- Scorge (by illyohs)
-- CB Multipart (by covers1624)
-- Project Red - Core (by MrTJP)
-- Project Red - Integration (by MrTJP)
-- Project Red - Illumination (by MrTJP)
-- Project Red - Exploration (by MrTJP)
-- Project Red - Transmission (by MrTJP)
-- Translocators 1.8.+ (by covers1624)
-- Catalogue (by MrCrayfish)
-- YUNG's API (Forge) (by YUNGNICKYOUNG)
-- YUNG's Better Caves (Forge) (by YUNGNICKYOUNG)
-- YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
-- YUNG's Better Dungeons (Forge) (by YUNGNICKYOUNG)
-- YUNG's Better Strongholds (Forge) (by YUNGNICKYOUNG)
-- YUNG's Bridges (Forge) (by YUNGNICKYOUNG)
-- Connectible Chains [FORGE] (by lilypuree)
-- Chisel (by tterrag1098)
-- Mini Effects (by Snownee_)
-- Desolation (Forge) (by y4z0n)
-- Gauges and Switches (by wilechaote)
-- No Lakes in Forge (by Shwible_Di_Bibble)
-- MojangDark (by SizableShrimp)
-- In Control! (by McJty)
-- FTB Teams (Forge) (by FTB)
-- Easy Magic (by Fuzs_)
-- ServerConfig Updater (by Darkere)
-- iChunUtil (by ohaiiChun)
-- Hats (by ohaiiChun)
-- ConnectedTexturesMod (by tterrag1098)
-- Water Strainer (by Ruuubi)
-- AIOT Botania (by MelanX)
-- DeLogger (by UnRealDinnerbone)
-- Travel Anchors (by CastCrafter)
-- Drawers Tooltip (by Snownee_)
-- Dynamic View (by someaddon)
-- SuperMartijn642's Core Lib (by SuperMartijn642)
-- Tinkers Construct (by mDiyo)
-- Enchantment Descriptions (by DarkhaxDev)
-- FindMe (by Buuz135)
-- Snow! Real Magic! ⛄ (Forge) (by Snownee_)
-- Kiwi 🥝 (Forge) (by Snownee_)
-- Bookshelf (by DarkhaxDev)
-- Just Enough Items (JEI) (by mezz)
-- Goblin Traders (by MrCrayfish)
-- Toast Control (by Shadows_of_Fire)
-- Default Options (by BlayTheNinth)
-- Light Overlay (Rift/Forge/Fabric) (by shedaniel)
-- RandomPatches (Forge) (by TheRandomLabs)
-- Pam's HarvestCraft 2 - Food Extended (by pamharvestcraft)
-- Kotlin for Forge (by thedarkcolour)
-- Ender Storage 1.8.+ (by covers1624)
-- PackMenu (by Shadows_of_Fire)
-- JEITweaker (by Jaredlll08)
-- Storage Drawers (by Texelsaur)
-- AppleSkin (by squeek502)
-- Lollipop (by owmii)
-- Architectury API (Forge) (by shedaniel)
-- FTB GUI Library (by FTB)
-- Oh My Gourd (by TeamCoFH)
-- TipTheScales (by Jaredlll08)
-- Initial Inventory (by Jaredlll08)
-- GraveStone Mod (by henkelmax)
-- Cloth Config API (Forge) (by shedaniel)
-- Waystones (by BlayTheNinth)
-- Open Loader (by DarkhaxDev)
-- Straw Golem Reborn - Forge (by CommodoreThrawn)
-- Spice of Life: Carrot Edition (by lordcazsius)
-- The One Probe (by McJty)
-- Buzzier Bees (by TeamAbnormals)
-- Curios Quark Oddities Backpack (by 6LeoMC)
-- LibX (by noeppinoeppi)
-- KleeSlabs (by BlayTheNinth)
-- Chisels & Bits - For Forge (by AlgorithmX2)
-- Runelic (by DarkhaxDev)
-- Trash Cans (by SuperMartijn642)
-- Glassential (by Lykrast)
-- Diet (Forge) (by TheIllusiveC4)
-- CraftPresence (by CDAGaming_)
-- SwingThroughGrass (by exidex)
-- GeckoLib (by ThanosGecko)
-- AstikorCarts [Horse Carts] (by MennoMax)
-- Dark Utilities (by DarkhaxDev)
-- Pam's HarvestCraft 2 - Trees (by pamharvestcraft)
-- Coloured Tooltips (by DarkhaxDev)
-- FastFurnace (by Shadows_of_Fire)
-- Bountiful (by ejektaflex)
-- Fairy Lights (by pau101)
-- FramedBlocks (by XFactHD)
-- Crafting Tweaks (by BlayTheNinth)
-- Dynamic Surroundings (by OreCruncher)
-- Psi (by Vazkii)
-- Chicken Chunks 1.8.+ (by covers1624)
-- TrashSlot (by BlayTheNinth)
-- Patchouli (by Vazkii)
-- Mantle (by mDiyo)
-- Caelus API (Forge) (by TheIllusiveC4)
-- Building Gadgets (by Direwolf20)
-- Performant (by someaddon)
-- Inventory Essentials (by BlayTheNinth)
-- JourneyMap (by techbrew)
-- Morph-o-Tool (by Vazkii)
-- Music Duration Reducer (by LudoCrypt)
-- Step (by ModdingLegacy)
-- CraftTweaker (by Jaredlll08)
-- OpenBlocks Elevator (by vsngarcia)
-- Ensorcellation (by TeamCoFH)
-- Neat (by Vazkii)
-- Sophisticated Backpacks (by P3pp3rF1y)
-- Miner's Helmet (by ModdingLegacy)
-- Farming for Blockheads (by BlayTheNinth)
-- Overloaded Armor Bar (by tfarecnim)
-- FerriteCore (Forge) (by malte0811)
-- CodeChicken Lib 1.8.+ (by covers1624)
-- Lazy DataFixerUpper(LazyDFU) [FORGE] (by Corgi_Taco)
-- Client Tweaks (by BlayTheNinth)
-- Polymorph (Forge) (by TheIllusiveC4)
-- Akashic Tome (by Vazkii)
-- Lost Trinkets (by owmii)
-- Artifacts (by ochotonida)
-- Pam's HarvestCraft 2 - Crops (by pamharvestcraft)
-- Curious Armor Stands (by ochotonida)
-- Supplementaries (by MehVahdJukaar)
-- AttributeFix (by DarkhaxDev)
-- Tips (by DarkhaxDev)
-- CoFH Core (by TeamCoFH)
-- Cooking for Blockheads (by BlayTheNinth)
-- Quark (by Vazkii)
-- Just Enough Resources (JER) (by way2muchnoise)
-- Cosmetic Armor Reworked (by LainMI)
-- Aquaculture 2 (by Shadowclaimer)
-- Witherproofed (by sajeyson)
-- Clumps (by Jaredlll08)
-- Extreme sound muffler (Forge) (by LeoBeliik)
-- Cherished Worlds (Forge) (by TheIllusiveC4)
-- ObserverLib (by HellFirePvP)
-- Nature's Compass (by Chaosyr)
-- Better Advancements (by way2muchnoise)
-- Archer's Paradox (by TeamCoFH)
-- Dank Storage (by tfarecnim)
-- Comforts (Forge) (by TheIllusiveC4)
-- Quark Oddities (by Vazkii)
-- ContentTweaker (by Jaredlll08)
-- Iron Chests (by ProgWML6)
-- FTB Backups (by FTB)
-- AutoRegLib (by Vazkii)
-- Blueprint (by TeamAbnormals)
-- FTB Chunks (by FTB)
-- Fast Leaf Decay (by olafskiii)
-- Curios API (Forge) (by TheIllusiveC4)
-- Configured (by MrCrayfish)
-- Pam's HarvestCraft 2 - Food Core (by pamharvestcraft)
-- Mod Name Tooltip (by mezz)
-- FastWorkbench (by Shadows_of_Fire)
-- Armor Toughness Bar (by tfarecnim)
-- Mouse Tweaks (by YaLTeR)
-- Torchmaster (by xalcon)
-- MmmMmmMmmMmm (by bonusboni)
-- Curio of Undying (Forge) (by TheIllusiveC4)
-- Controlling (by Jaredlll08)
-- Placebo (by Shadows_of_Fire)
-- Curious Elytra (Forge) (by TheIllusiveC4)
-- JEI Integration (by SnowShock35)
+- Champions
+- Iceberg
+- JourneyMap Integration
+- Mowzie's Mobs
+- Puzzles Lib [Forge]
+- Stylish Effects [Forge]
+- Sulfuric
+- Stoneholm, Underground Villages (Forge)
+- Snow Under Trees
+- Tomes
+- Tinker's Planner
+- Scorge
+- CB Multipart
+- Project Red - Core
+- Project Red - Integration
+- Project Red - Illumination
+- Project Red - Exploration
+- Project Red - Transmission
+- Translocators 1.8.+
+- Catalogue
+- YUNG's API (Forge)
+- YUNG's Better Caves (Forge)
+- YUNG's Better Mineshafts (Forge)
+- YUNG's Better Dungeons (Forge)
+- YUNG's Better Strongholds (Forge)
+- YUNG's Bridges (Forge)
+- Connectible Chains [FORGE]
+- Chisel
+- Mini Effects
+- Desolation (Forge)
+- Gauges and Switches
+- No Lakes in Forge
+- MojangDark
+- In Control!
+- FTB Teams (Forge)
+- Easy Magic
+- ServerConfig Updater
+- iChunUtil
+- Hats
+- ConnectedTexturesMod
+- Water Strainer
+- AIOT Botania
+- DeLogger
+- Travel Anchors
+- Drawers Tooltip
+- Dynamic View
+- SuperMartijn642's Core Lib
+- Tinkers Construct
+- Enchantment Descriptions
+- FindMe
+- Snow! Real Magic! ⛄ (Forge)
+- Kiwi 🥝 (Forge)
+- Bookshelf
+- Just Enough Items (JEI)
+- Goblin Traders
+- Toast Control
+- Default Options
+- Light Overlay (Rift/Forge/Fabric)
+- RandomPatches (Forge)
+- Pam's HarvestCraft 2 - Food Extended
+- Kotlin for Forge
+- Ender Storage 1.8.+
+- PackMenu
+- JEITweaker
+- Storage Drawers
+- AppleSkin
+- Lollipop
+- Architectury API (Forge)
+- FTB GUI Library
+- Oh My Gourd
+- TipTheScales
+- Initial Inventory
+- GraveStone Mod
+- Cloth Config API (Forge)
+- Waystones
+- Open Loader
+- Straw Golem Reborn - Forge
+- Spice of Life: Carrot Edition
+- The One Probe
+- Buzzier Bees
+- Curios Quark Oddities Backpack
+- LibX
+- KleeSlabs
+- Chisels & Bits - For Forge
+- Runelic
+- Trash Cans
+- Glassential
+- Diet (Forge)
+- CraftPresence
+- SwingThroughGrass
+- GeckoLib
+- AstikorCarts [Horse Carts]
+- Dark Utilities
+- Pam's HarvestCraft 2 - Trees
+- Coloured Tooltips
+- FastFurnace
+- Bountiful
+- Fairy Lights
+- FramedBlocks
+- Crafting Tweaks
+- Dynamic Surroundings
+- Psi
+- Chicken Chunks 1.8.+
+- TrashSlot
+- Patchouli
+- Mantle
+- Caelus API (Forge)
+- Building Gadgets
+- Performant
+- Inventory Essentials
+- JourneyMap
+- Morph-o-Tool
+- Music Duration Reducer
+- Step
+- CraftTweaker
+- OpenBlocks Elevator
+- Ensorcellation
+- Neat
+- Sophisticated Backpacks
+- Miner's Helmet
+- Farming for Blockheads
+- Overloaded Armor Bar
+- FerriteCore (Forge)
+- CodeChicken Lib 1.8.+
+- Lazy DataFixerUpper(LazyDFU) [FORGE]
+- Client Tweaks
+- Polymorph (Forge)
+- Akashic Tome
+- Lost Trinkets
+- Artifacts
+- Pam's HarvestCraft 2 - Crops
+- Curious Armor Stands
+- Supplementaries
+- AttributeFix
+- Tips
+- CoFH Core
+- Cooking for Blockheads
+- Quark
+- Just Enough Resources (JER)
+- Cosmetic Armor Reworked
+- Aquaculture 2
+- Witherproofed
+- Clumps
+- Extreme sound muffler (Forge)
+- Cherished Worlds (Forge)
+- ObserverLib
+- Nature's Compass
+- Better Advancements
+- Archer's Paradox
+- Dank Storage
+- Comforts (Forge)
+- Quark Oddities
+- ContentTweaker
+- Iron Chests
+- FTB Backups
+- AutoRegLib
+- Blueprint
+- FTB Chunks
+- Fast Leaf Decay
+- Curios API (Forge)
+- Configured
+- Pam's HarvestCraft 2 - Food Core
+- Mod Name Tooltip
+- FastWorkbench
+- Armor Toughness Bar
+- Mouse Tweaks
+- Torchmaster
+- MmmMmmMmmMmm
+- Curio of Undying (Forge)
+- Controlling
+- Placebo
+- Curious Elytra (Forge)
+- JEI Integration
